@@ -1,112 +1,85 @@
-Contents:
-*Welcome
-*Best Practices
-*About the project
-*Class of Planets
-*Interpretation of Data
-*References
+﻿**Capstone-Exoplanets**
 
 
-Welcome to my project!  
+![Exoplanet.](Aspose.Words.348e9ce8-772e-497c-93e3-9b3927e53707.001.jpeg)
 
-You may be asking, “Why Astronomy?”.  Well, where I grew up there are amazing views of the Milky Way. I lived in the country and street lighting was not as popular as it is today, So there was nothing interfering with the view.  That was the beginning of my love of the stars and Astronomy.  This love remained but often took a backseat to other interests.  This capstone seemed to be the perfect time to explore my interests. 
+**Welcome to my project!**
 
-Today we are focusing on Exoplanets.  Extrasolar Planets are those that orbit a star and that are not in our solar system.  This means they are outside our stars influence. 
-(insert more on exoplants) 
+You may be asking, “Why Exoplanets?”. I lived in the country when I was younger and street lighting was not common. Therefore, other than clouds, nothing interfered with viewing the part of the Milky Way which was visable from my home. To my young mind this was a magical sight and was the beginning of my love of the stars. 
 
-I found my CSVs via a Kaggle search and followed them back to a NASA website which provided more information and eventually led to the interactive site (https://eyes.nasa.gov/apps/exo/#/system/K2-17) where I found the information about the distance the planets are from Earth.
+While there are many realms to explore concerning planets and galaxies, today's focus will be on exoplanets.  Extrasolar Planets are those that orbit a star, that are not in our solar system and therefore outside our stars influence.  Next is a video presentation on Exoplanets. The video will open in a new  window. I have also embedded it within the executable program for convenience.
 
-Classes of planets:
-https://wiki.starbase118.net/wiki/index.php/Planetary_Classification#:~:text=Examples%3A%20Gothos-,Class%20B,Age%3A%200%20%2D%2010%20billion%20years
+[NASA video on Exoplanets](https://youtu.be/4IXYp9Fse44 "NASA Video on Exoplanets")
 
-Class A
-
-1 to 1/10th the mass of Earth
-Newly formed 
-suns cold zone
-Molten Surfaces
-when cooled will be Class C planets
-type= Geothermal
-
-Class B
-1/10th the mass of earth
-in its Suns Hot zone
-weak gravity and tenuous atmospheres
-type: geomorteus
+In this project, we will look at how and where Exoplanets have been found. Also, the equipment used and how far each is from Earth. Included in the analysis is ____________ in relation to _________
 
 
-Class CWelcome to my project!  You may be asking, “Why Astronomy?”.  I grew up  with amazing views of the Milky Way, since I lived in the country and street lighting was not as popular as it is today.  So there was nothing interfering with the view.  That was the beginning of my love of the stars.
+Below, I have included a data dictionary which explains the abbreviations used as the column titles.
 
-Today we are focusing on Exoplanets.  Extrasolar Planets are those that orbit a star and that are not in our solar system.  This means also that they supposed to be outside our stars influence.  
 
-I found my CSVs on Kaggle.com and followed them back to a NASA website which provided more information and eventually led to the interactive site (https://eyes.nasa.gov/apps/exo/#/system/K2-17) where I found the information about the distance the planets are from Earth.
+**Best practices and how to run the project**
 
-Classes of planets:
-https://wiki.starbase118.net/wiki/index.php/Planetary_Classification#:~:text=Examples%3A%20Gothos-,Class%20B,Age%3A%200%20%2D%2010%20billion%20year
+To run this project, first you will need Git and Jupyter Notebook. You can also run the project in Google Colab, but you will need to add the csv files to your local machine.
 
-Class C
-1 to 1/10 the mass of Earth
-in their suns cold zone
-atmospheres are permanently frozen
-type: geoinactive
-example: Pluto
+The instructions for installing Git can be found [here](https://github.com/git-guides/install-git) and the instructions for installing Jupyter Notebook can be found here.
 
-Class D
-size: 1 to 1/100th the mass of Earth.  Possible could be less.   
-These planets have no atmospheres
-surface are lifeless and cratered due to radiation exposure and impacts of  meteors
-Type: Asteroid / Moon
-Examples: Moon (Sol IIIa)
+Go to my repository: [Capstone Repository](https://github.com/Barleead/Astronomy-capstone) 
 
-Class E
-typically of about the mass of Earth 
-in their sun's habitable zone. 
-surfaces are still molten. 
-Their atmospheres still retain many hydrogen compounds
-will cool, becoming Class F.
-Type: Geoplastic
-Examples: Excalbia
+Clone the repository.
 
-Class C
-Classl.jpg
-Class C planets are small, typically 1 to 1/10 the mass of Earth and are in their sun's cold zone. Due to a combination of low solar radiation and little heat, their atmospheres are permanently frozen.
+Open Git and enter the following commands to create a virtual environment:
 
-Type: Geoinactive
-Age: 2 - 10 billion years
-Diameter: 1,000 - 10,000 km
-Location: Ecosphere / Cold Zone
-Surface: Low surface temperature
-Atmosphere: Frozen
-Evolution: n.a.
-Life-Forms: None
-Examples: Pluto, Psi 2000
-Class D
-Classo.jpg
-Class D planets are small, typically 1 to 1/100 the mass of Earth, or less. Due to low gravity, they have lost their atmospheres. Their surfaces, directly exposed to radiation and meteor impact, are typically lifeless and heavily cratered.
+**Windows**
 
-Type: Asteroid / Moon
-Age: 2 - 10 billion years
-Diameter: 100 - 1,000 km
-Location: Hot Zone / Ecosphere / Cold Zone; found primarily in orbit of larger planets or in asteroid fields
-Surface: Barren and cratered
-Atmosphere: None or very tenuous
-Evolution: n.a.
-Life-Forms: None
-Examples: Moon (Sol IIIa), Lunar V (Bajor VIIe)
-Class E
-Classd.jpg
-Class E planets are typically of about the mass of Earth and are in their sun's habitable zone. They are newly formed, and their surfaces are still molten. Their atmospheres still retain many hydrogen compounds, as well as reactive gases and rock vapors. These planets will cool, becoming Class F.
+1. python -m venv venv
+2. source venv\bin\activate or source venv\scripts\activate
+3. pip install -r requirements.txt
 
-Type: Geoplastic
-Age: 0 - 2 billion years
-Diameter: 10,000 - 15,000 km
-Location: Ecosphere
-Surface: Molten, high surface temperature
-Atmosphere: Hydrogen compunds and reactive gases
-Evolution: Cools to become Class F
-Life-Forms: Carbon-cyle (ie. Excalbian)
-Examples: Excalbia
-same size as Class As
-in suns cold zone
-amosphers are permanently frozen
-type: geoinactive,
+**Linux/Mac0S**
+
+1. python3 -m venv venv
+1. source venv/bin/activate
+1. pip install -r requirements.txt
+
+After the virtual environment is created, enter “git clone” followed by the URL you copied when cloning the repository.
+
+Run the file “ Capstone Exoplanets”
+
+To exit the virtual environment type “deactivate”.
+
+**Features**
+
+1) Loading Data: Reading in two CSVs
+1) Clean and operate on the data: pandas merge and select specific rows and columns
+1) Visualize and Present the data: Tableau Dashboard
+1) Best Practices: virtual environment and a data dictionary for planet names
+1) Interpretation of the data: markdown cells in program and summary in readme.md
+
+
+
+   **Interpretation of the data**
+
+   While there is always much to learn about planets: their make-up/effect on individual
+
+
+   **Resources**
+
+   [kaggle.com](kaggle.com)
+
+   [https://eyes.nasa.gov/apps/exo/#/system/K2-17	](https://eyes.nasa.gov/apps/exo/#/system/K2-17)
+
+   <https://exoplanetarchive.ipac.caltech.edu/applications/DocSet/index.html?doctree=/docs/docmenu.xml&startdoc=item_1_01>
+
+   https://wiki.starbase118.net/wiki/index.php/Planetary\_Classification
+
+   **Future Plans**
+
+   Explore the mass of the planets relative to distance.
+
+   Exploration of the distance, in light years, between any two given planets.
+
+   Answer the question, "Does one type of equipment over another, make a difference in how easily a planet could be discovered?"
+
+   Discuss data regarding possibility of life on other planets.
+
+
