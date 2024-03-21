@@ -16,6 +16,14 @@ Below, I have included a data dictionary which explains the abbreviations used a
 
 Fun piece of trivia, the letter classification (pl_letter) indicates the order of discovery for planets and for stars it references the size of the star.
 
+The types of planets used in my Tableau visualiations are:
+
+1. Gas Giants - Giant planets made up of mostly hydrogen & helium. These have no hard surfaces.
+2. Terrestrial - These planets are made up of rock, silicate, water, and/or carbon.
+3. Neptune-Like - Similar in size to Jupiter and often have hydrogen and helium-dominated atmospheres. Rock and heavier metals make up the core.
+4. Super Earth -  These planets are larger than Earth but smaller than Neptune. Super-Earths are the most common type of exoplanet discovered.  Gas, rock, or both are part of what the planets are made of.
+5. Unknown - No data.
+   
 
 **Best practices and how to run the project**
 
@@ -60,7 +68,7 @@ To exit the virtual environment type “deactivate”.
 
 **Interpretation of the data**
 
-  There is a great deal of informtion on the internet concerning Exoplanets. The small amount of data I have worked with shows that there are differences in the information presented depending on points of reference: the radius of the Earth and Sun for example..  The source of the data is filtered through other known data and can be approximations.  Please refer to project visualizations at ***(insert tableau link here)***
+  There is a great deal of informtion on the internet concerning Exoplanets. The small amount of data I have worked with shows that there are differences in the information presented depending on points of reference: the radius of the Earth and Sun for example..  The source of the data is filtered through other known data and can be approximations.  Please refer to project visualizations at [my public Tableau.](https://public.tableau.com/app/profile/barbara.adkins/vizzes)  After opening the dashboard, click on "View on Tableau Public"  and each visualization has its own tab. 
 
    **Resources**
 
@@ -83,6 +91,5 @@ To exit the virtual environment type “deactivate”.
 
    Answer the question, "Does one type of equipment over another, make a difference in how easily a planet could be discovered?"
 
-   Discuss data regarding possibility of life on other planets.
-
+  
 

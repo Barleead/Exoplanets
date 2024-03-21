@@ -1,0 +1,308 @@
+pl_name,hostname,pl_letter,hd_name,gaia_id,sy_snum,sy_pnum,sy_mnum,discoverymethod,disc_year,disc_locale,disc_facility,disc_telescope,pl_orbper,pl_orbsmax,pl_rade,pl_radj,pl_masse,pl_dens,pl_orbeccen,pl_eqt,pl_trandur,pl_ratdor,pl_ratror,pl_occdep,st_rad,st_age,st_dens
+47 UMa d,47 UMa,d,HD 95128,Gaia DR2 777254360337133312,1,3,0,Radial Velocity,2009,Ground,Lick Observatory,3.0 m C. Donald Shane Telescope,14002.0,11.6,,,,,0.16,,,,,,1.21,,0.8366
+55 Cnc d,55 Cnc,d,HD 75732,Gaia DR2 704967037090946688,2,5,0,Radial Velocity,2002,Ground,Lick Observatory,3.0 m C. Donald Shane Telescope,5574.2,5.54,,,,,0.139,,,,,,0.96,,
+61 Vir d,61 Vir,d,HD 115617,Gaia DR2 3507879565090229888,1,3,0,Radial Velocity,2009,Ground,Multiple Observatories,Multiple Telescopes,123.01,0.476,,,,,0.35,,,,,,0.96,8.96,
+CoRoT-7 d,CoRoT-7,d,,Gaia DR2 3107267177757848576,1,3,0,Radial Velocity,2022,Ground,La Silla Observatory,3.6 m ESO Telescope,8.966,,,,17.142,,,,,,,,,1.8,
+DMPP-1 d,DMPP-1,d,HD 38677,Gaia DR2 3011005587574818432,1,4,0,Radial Velocity,2019,Ground,La Silla Observatory,3.6 m ESO Telescope,2.882,0.0422,,,,,0.07,1632.0,,,,,1.26,2.01,
+EPIC 201754305 d,K2-16,d,,Gaia DR2 3897048338487064064,1,3,0,Transit,2019,Space,K2,0.95 m Kepler Telescope,2.71578,,1.03,0.092,,,,,,,0.015,,,,
+EPIC 206024342 d,EPIC 206024342,d,,Gaia DR2 6839540362940861568,1,3,0,Transit,2021,Space,K2,0.95 m Kepler Telescope,14.647531,,2.6,0.232,,,,,,29.0,0.0217,,1.1,,
+EPIC 249893012 d,EPIC 249893012,d,,Gaia DR2 6259263137059042048,1,3,0,Transit,2020,Space,K2,0.95 m Kepler Telescope,35.747,0.22,3.94,0.352,10.18,0.91,0.15,752.0,9.56,27.42,0.0211,,1.71,9.0,0.298
+GJ 1061 d,GJ 1061,d,,Gaia DR2 4848140361962951552,1,3,0,Radial Velocity,2020,Ground,La Silla Observatory,3.6 m ESO Telescope,13.031,0.054,,,,,0.53,,,,,,0.16,7.0,
+GJ 163 d,GJ 163,d,,Gaia DR2 4780294722094459904,1,3,0,Radial Velocity,2013,Ground,La Silla Observatory,3.6 m ESO Telescope,603.95116,1.0304,,,,,0.373,,,,,,,,
+GJ 180 d,GJ 180,d,,Gaia DR2 2979590513145784192,1,3,0,Radial Velocity,2020,Ground,Multiple Facilities,Multiple Telescopes,106.3,0.309,,,,,0.14,,,,,,,,
+GJ 3138 d,GJ 3138,d,,Gaia DR2 5144740907820131840,1,3,0,Radial Velocity,2017,Ground,La Silla Observatory,3.6 m ESO Telescope,257.8,0.698,,,,,0.32,,,,,,0.5,,
+GJ 3293 d,GJ 3293,d,,Gaia DR2 4893118771316702720,1,4,0,Radial Velocity,2017,Ground,La Silla Observatory,3.6 m ESO Telescope,48.1345,0.19394,,,,,0.12,,,,,,0.4,,
+GJ 357 d,GJ 357,d,,Gaia DR2 5664814198431308288,1,3,0,Radial Velocity,2019,Multiple Locales,Multiple Observatories,Multiple Telescopes,55.661,0.204,,,,,,220.0,,,,,0.34,,13.6
+GJ 433 d,GJ 433,d,,Gaia DR2 3478160727866058368,1,3,0,Radial Velocity,2020,Ground,Multiple Facilities,Multiple Telescopes,36.059,0.178,,,,,0.07,,,,,,,,
+GJ 676 A d,GJ 676 A,d,,Gaia DR2 5925209583053212800,2,4,0,Radial Velocity,2012,Ground,La Silla Observatory,3.6 m ESO Telescope,3.60076,,,,,,0.262,,,,,,,,
+GJ 876 d,GJ 876,d,,Gaia DR2 2603090003484152064,1,4,0,Radial Velocity,2005,Ground,W. M. Keck Observatory,10 m Keck I Telescope,1.93778,0.02183,,,,,0.273,,,,,,0.37,,
+GJ 9827 d,GJ 9827,d,,Gaia DR2 2643842302456085888,1,3,0,Transit,2017,Space,K2,0.95 m Kepler Telescope,6.20147,0.05615,2.07,0.185,5.2,3.23,,680.0,1.2264,19.7,0.03093,,0.61,,3.76
+HD 10180 d,HD 10180,d,HD 10180,Gaia DR2 4716158250340258944,1,6,0,Radial Velocity,2010,Ground,La Silla Observatory,3.6 m ESO Telescope,16.357,0.1286,,,,,0.088,,,,,,,4.3,
+HD 108236 d,HD 108236,d,HD 108236,Gaia DR2 6125644402384918784,1,5,0,Transit,2020,Space,Transiting Exoplanet Survey Satellite (TESS),0.1 m TESS Telescope,14.175685,,2.623,0.234,,,,691.0,3.7543827,,,,0.86,,
+HD 11506 d,HD 11506,d,HD 11506,Gaia DR2 5137855525488932864,1,3,0,Radial Velocity,2022,Ground,Multiple Observatories,Multiple Telescopes,14723.57452,12.235,,,2346.52713,,0.061,,,,,,,,
+HD 125612 d,HD 125612,d,HD 125612,Gaia DR2 6296703260330865536,2,3,0,Radial Velocity,2009,Ground,La Silla Observatory,3.6 m ESO Telescope,2822.72698,3.982,,,2281.37231,,0.115,,,,,,,,
+HD 136352 d,HD 136352,d,HD 136352,Gaia DR2 5902750168276592256,1,3,0,Radial Velocity,2019,Ground,La Silla Observatory,3.6 m ESO Telescope,107.245,0.425,2.562,0.229,8.82,2.87811,0.0,431.0,8.87,86.46,0.02219,,1.06,12.3,1.0348
+HD 141399 d,HD 141399,d,HD 141399,Gaia DR2 1398218223733415552,1,4,0,Radial Velocity,2014,Ground,Multiple Observatories,Multiple Telescopes,1069.8,2.1348,,,,,0.06,,,,,,1.46,,
+HD 142 A d,HD 142,d,HD 142,Gaia DR2 4976894960284258048,2,3,0,Radial Velocity,2022,Ground,Multiple Observatories,Multiple Telescopes,108.45299,0.474,,,,,0.13,,,,,,,,
+HD 153557 d,HD 153557,d,HD 153557,Gaia DR2 1408029509584967168,1,3,0,Radial Velocity,2022,Ground,Multiple Observatories,Multiple Telescopes,40654.64809,21.449,,,8725.66109,,0.152,,,,,,,,
+HD 158259 d,HD 158259,d,HD 158259,Gaia DR2 1416050859226670848,1,5,0,Radial Velocity,2020,Ground,Haute-Provence Observatory,1.93 m Telescope,5.1980814,,,,,,,,,,,,1.21,,
+HD 160691 d,HD 160691,d,HD 160691,Gaia DR2 5945941905576552064,1,4,0,Radial Velocity,2004,Ground,La Silla Observatory,3.6 m ESO Telescope,9.6392,0.09,,,,,0.0,900.0,,,,,,2.0,
+HD 164922 d,HD 164922,d,HD 164922,Gaia DR2 4582680493669880704,1,4,0,Radial Velocity,2020,Ground,Roque de los Muchachos Observatory,3.58 m Telescopio Nazionale Galileo,12.458,0.1023,,,,,0.18,,,,,,1.0,,
+HD 181433 d,HD 181433,d,HD 181433,Gaia DR2 6434153380720177664,1,3,0,Radial Velocity,2008,Ground,La Silla Observatory,3.6 m ESO Telescope,2172.0,3.0,,,,,0.48,,,,,,,,
+HD 184010 d,HD 184010,d,HD 184010,Gaia DR2 2024845946447691264,1,3,0,Radial Velocity,2022,Ground,Okayama Astrophysical Observatory,1.88 m Telescope,836.4,1.92,,,,,0.0,,,,,,4.86,2.76,
+HD 191939 d,HD 191939,d,HD 191939,Gaia DR2 2248126315275354496,1,6,0,Transit,2020,Space,Transiting Exoplanet Survey Satellite (TESS),0.1 m TESS Telescope,38.353037,0.207,3.04,0.271,5.8,0.5,0.0,549.0,5.5,,0.0302,,0.94,8.7,1.37
+HD 20781 d,HD 20781,d,HD 20781,Gaia DR2 5060105892897388288,2,5,0,Radial Velocity,2019,Ground,La Silla Observatory,3.6 m ESO Telescope,29.158,0.1647,,,,,0.11,,,,,,,,
+HD 20794 d,HD 20794,d,HD 20794,Gaia DR2 4847957293277762560,1,4,0,Radial Velocity,2011,Ground,La Silla Observatory,3.6 m ESO Telescope,90.309,0.364,,,,,0.25,,,,,,,,
+HD 215152 d,HD 215152,d,HD 215152,Gaia DR2 2623505219992303104,1,4,0,Radial Velocity,2018,Ground,La Silla Observatory,3.6 m ESO Telescope,10.86499,0.08799,,,,,0.0,,,,,,0.73,,
+HD 219134 d,HD 219134,d,HD 219134,Gaia DR2 2009481748875806976,1,6,0,Radial Velocity,2015,Ground,Roque de los Muchachos Observatory,3.58 m Telescopio Nazionale Galileo,46.859,0.2345,,,,,0.077,,,,,,0.76,,
+HD 22946 d,HD 22946,d,HD 22946,Gaia DR2 4848767461548943104,1,3,0,Transit,2023,Space,Transiting Exoplanet Survey Satellite (TESS),0.1 m TESS Telescope,47.42489,0.2958,2.607,0.233,26.57,10.8,,546.0,6.482,57.0,0.02141,,1.12,2.5,
+HD 23472 d,HD 23472,d,HD 23472,Gaia DR2 4674216245427964416,1,5,0,Transit,2022,Space,Transiting Exoplanet Survey Satellite (TESS),0.1 m TESS Telescope,3.97664,0.04298,0.75,0.067,0.55,7.5,0.07,909.0,1.99,13.29,0.00975,,0.71,,2.7069
+HD 27894 d,HD 27894,d,HD 27894,Gaia DR2 4678605152248591488,1,3,0,Radial Velocity,2017,Ground,La Silla Observatory,3.6 m ESO Telescope,5019.54244,5.448,,,,,0.389,,,,,,,,
+HD 28109 d,HD 28109,d,HD 28109,Gaia DR2 4668163021600295552,1,3,0,Transit,2022,Space,Transiting Exoplanet Survey Satellite (TESS),0.1 m TESS Telescope,84.25999,,3.002,0.268,,,,521.0,10.0064967,,,,1.41,,
+HD 31527 d,HD 31527,d,HD 31527,Gaia DR2 2972622770521857664,1,3,0,Radial Velocity,2019,Ground,La Silla Observatory,3.6 m ESO Telescope,271.6737,0.8098,,,,,0.24,,,,,,,,
+HD 3167 d,HD 3167,d,HD 3167,Gaia DR2 2554032474712538880,1,4,0,Radial Velocity,2017,Ground,Multiple Observatories,Multiple Telescopes,8.4112,0.0763,,,,,0.12,,,,,,0.88,7.8,
+HD 33142 d,HD 33142,d,HD 33142,Gaia DR2 2986948238799721216,1,3,0,Radial Velocity,2022,Ground,Multiple Observatories,Multiple Telescopes,89.9,0.452,,,,,0.191,,,,,,4.17,2.72,
+HD 34445 d,HD 34445,d,HD 34445,Gaia DR2 3241295308714904960,1,6,0,Radial Velocity,2017,Ground,Multiple Observatories,Multiple Telescopes,117.87,0.4817,,,,,0.027,,,,,,1.38,8.5,
+HD 37124 d,HD 37124,d,HD 37124,Gaia DR2 3402798414192387328,1,3,0,Radial Velocity,2005,Ground,W. M. Keck Observatory,10 m Keck I Telescope,1862.0,3.142,,,,,0.297,,,,,,,,
+HD 39194 d,HD 39194,d,HD 39194,Gaia DR2 4657193606465368704,1,3,0,Radial Velocity,2021,Ground,La Silla Observatory,3.6 m ESO Telescope,33.91,0.185,,,,,0.333,,,,,,,10.0,
+HD 40307 d,HD 40307,d,HD 40307,Gaia DR2 4758877919212831104,1,5,0,Radial Velocity,2009,Ground,La Silla Observatory,3.6 m ESO Telescope,20.432,0.134,,,,,0.122,,,,,,,,
+HD 69830 d,HD 69830,d,HD 69830,Gaia DR2 5726982995343100928,1,3,0,Radial Velocity,2006,Ground,La Silla Observatory,3.6 m ESO Telescope,197.0,0.63,,,,,0.07,,,,,,,7.0,
+HD 7924 d,HD 7924,d,HD 7924,Gaia DR2 560130775546153344,1,3,0,Radial Velocity,2015,Ground,W. M. Keck Observatory,10 m Keck I Telescope,24.451,0.1532,,,,,0.17,,,,,,0.78,,
+HD 93385 d,HD 93385,d,HD 93385,Gaia DR2 5391813299572883456,1,3,0,Radial Velocity,2021,Ground,La Silla Observatory,3.6 m ESO Telescope,45.85,0.2565,,,,,0.09,,,,,,,3.3,
+HD 96700 d,HD 96700,d,HD 96700,Gaia DR2 5452492082132835840,1,3,0,Radial Velocity,2021,Ground,La Silla Observatory,3.6 m ESO Telescope,103.5,0.424,,,,,0.27,,,,,,,8.6,
+HIP 14810 d,HIP 14810,d,,Gaia DR2 60684353135617792,1,3,0,Radial Velocity,2009,Ground,W. M. Keck Observatory,10 m Keck I Telescope,981.8,1.89,,,,,0.173,,,,,,1.0,,
+HIP 41378 d,HIP 41378,d,,Gaia DR2 600698184764497664,1,5,0,Transit,2016,Space,K2,0.95 m Kepler Telescope,1114.0,,3.96,0.353,,,,,12.71,,0.0259,,1.4,,
+HIP 57274 d,HIP 57274,d,,Gaia DR2 4021079911593673600,1,3,0,Radial Velocity,2011,Ground,W. M. Keck Observatory,10 m Keck I Telescope,431.7,1.01,,,,,0.27,,,,,,0.68,7.87,
+HR 858 d,HR 858,d,HD 17926,Gaia DR2 5064574720469473792,2,3,0,Transit,2019,Space,Transiting Exoplanet Survey Satellite (TESS),0.1 m TESS Telescope,11.23,,2.075,0.185,,,,971.0,3.6009978,,,,1.28,,
+HR 8799 d,HR 8799,d,HD 218396,Gaia DR2 2832463659640297472,1,4,0,Imaging,2008,Ground,W. M. Keck Observatory,10 m Keck II Telescope,37000.0,24.0,13.0,1.2,3000.0,,,,,,,,,0.06,
+K2-133 d,K2-133,d,,Gaia DR2 148080473682357376,1,4,0,Transit,2017,Space,K2,0.95 m Kepler Telescope,11.02454,0.07487,2.003,0.179,,,,,,,0.0404,,0.46,,
+K2-136 d,K2-136,d,,Gaia DR2 145916050683920128,2,3,0,Transit,2017,Space,K2,0.95 m Kepler Telescope,25.575,,1.45,0.129,,,0.14,373.0,3.12,50.7,0.0201,,0.66,,3.52
+K2-138 d,K2-138,d,,Gaia DR2 2413596935442139520,1,6,0,Transit,2017,Space,K2,0.95 m Kepler Telescope,5.40479,0.05893,2.39,0.213,7.92,3.1,0.043,,2.7,14.7,0.02532,,0.86,2.8,2.064
+K2-148 d,K2-148,d,,Gaia DR2 2536443724641751808,2,3,0,Transit,2018,Space,K2,0.95 m Kepler Telescope,9.7579,,0.88,0.079,,,,,1.8,35.9,0.0217,,0.37,,
+K2-155 d,K2-155,d,,Gaia DR2 145333927996558976,1,3,0,Transit,2018,Space,K2,0.95 m Kepler Telescope,40.718,0.1937,1.9,0.17,,,,381.0,4.464,63.3,0.0273,,0.58,,
+K2-165 d,K2-165,d,,Gaia DR2 3700016198387202304,1,3,0,Transit,2018,Space,K2,0.95 m Kepler Telescope,14.101361,,3.191,0.285,,,,629.0,2.7078373,,,,0.84,,
+K2-183 d,K2-183,d,,Gaia DR2 652007410271734912,1,3,0,Transit,2018,Space,K2,0.95 m Kepler Telescope,22.620344,,17.4,1.55,,,,,4.14,,0.1729,,0.92,,
+K2-187 d,K2-187,d,,Gaia DR2 689268759823937280,1,4,0,Transit,2018,Space,K2,0.95 m Kepler Telescope,7.149584,,2.4,0.214,,,,,,18.0,0.0259,,0.83,,
+K2-19 d,K2-19,d,,Gaia DR2 3798833775141351552,1,3,0,Transit,2016,Space,K2,0.95 m Kepler Telescope,2.5081,0.036,1.22,0.109,,,,,1.93,,0.011,,1.01,,
+K2-198 d,K2-198,d,,Gaia DR2 3628687065162340224,1,3,0,Transit,2019,Space,K2,0.95 m Kepler Telescope,7.4500177,,,,,,,,2.61,,0.0261,,0.78,,2.5964
+K2-219 d,K2-219,d,,Gaia DR2 2581741400387500544,1,3,0,Transit,2018,Space,K2,0.95 m Kepler Telescope,11.137278,,2.84,0.253,,,,,4.896,15.7,0.01969,,1.32,,
+K2-233 d,K2-233,d,,Gaia DR2 6253186686054822784,1,3,0,Transit,2018,Space,K2,0.95 m Kepler Telescope,24.3645,0.1527,2.64,0.236,,,0.0,482.0,3.808,44.2,0.03254,,0.74,0.36,
+K2-239 d,K2-239,d,,Gaia DR2 3857872051994269824,1,3,0,Transit,2018,Space,K2,0.95 m Kepler Telescope,10.115,0.0685,1.1,0.098,,,,399.0,1.8384,38.8,0.0255,,0.36,,
+K2-266 d,K2-266,d,,Gaia DR2 3855246074629979264,2,4,0,Transit,2018,Space,K2,0.95 m Kepler Telescope,14.697,,3.246,0.29,,,,513.0,3.9539653,,,,0.73,,
+K2-268 d,K2-268,d,,Gaia DR2 604743013163971072,1,5,0,Transit,2019,Space,K2,0.95 m Kepler Telescope,4.528598,,1.49,0.133,,,,888.0,2.57,12.57,0.0173,,0.78,,
+K2-285 d,K2-285,d,,Gaia DR2 2657374606238804992,1,4,0,Transit,2018,Space,K2,0.95 m Kepler Telescope,10.45582,0.1178,2.48,0.221,6.5,,0.0,620.0,2.504,32.2,0.0289,,0.79,,2.512
+K2-3 d,K2-3,d,,Gaia DR2 3796690380302214272,1,3,0,Transit,2015,Space,K2,0.95 m Kepler Telescope,44.55603,0.2076,1.52,0.14,,,,,3.98,78.7402,0.0248,,0.56,1.0,
+K2-32 d,K2-32,d,,Gaia DR2 4130539180358512768,2,4,0,Transit,2016,Space,K2,0.95 m Kepler Telescope,31.71701,0.1862,3.43,0.306,10.3,1.38,0.0,537.0,,,,,0.84,7.9,
+K2-352 d,K2-352,d,,Gaia DR2 632634358985725184,1,3,0,Transit,2018,Space,K2,0.95 m Kepler Telescope,14.871387,,2.23,0.199,,,,727.0,4.14,25.94,0.0214,,0.95,,
+K2-368 d,K2-368,d,,Gaia DR2 2613924969021549440,1,3,0,Transit,2022,Space,K2,0.95 m Kepler Telescope,20.201085,,1.89,0.169,,,,,3.576,39.2,0.03,,0.58,,
+K2-37 d,K2-37,d,,Gaia DR2 6049595065740634624,1,3,0,Transit,2016,Space,K2,0.95 m Kepler Telescope,14.09189,0.1102,2.59,0.231,,,,,2.65,,0.0271,,0.87,,
+K2-381 d,K2-381,d,,Gaia DR2 4081376064109034496,1,3,0,Transit,2022,Space,K2,0.95 m Kepler Telescope,26.803023,,1.532,0.14,,,,,,55.979016,0.02175,,0.65,,
+K2-384 d,K2-384,d,,Gaia DR2 2535107508776249856,1,5,0,Transit,2022,Space,K2,0.95 m Kepler Telescope,6.679582,,1.1,0.098,,,,,1.512,30.4,0.0393,,0.26,,
+K2-58 d,K2-58,d,,Gaia DR2 2599975224481836672,1,3,0,Transit,2016,Space,K2,0.95 m Kepler Telescope,22.8827,0.1517,1.71,0.153,,,,,3.2,,0.018,,0.86,,
+K2-72 d,K2-72,d,,Gaia DR2 2615653023342995584,1,4,0,Transit,2016,Space,K2,0.95 m Kepler Telescope,7.760178,0.0461,0.73,0.065,,,,,1.45,,0.0286,,0.23,,
+K2-80 d,K2-80,d,,Gaia DR2 38723395078288256,1,3,0,Transit,2018,Space,K2,0.95 m Kepler Telescope,28.867253,,2.552,0.228,,,,,,45.619404,0.02781,,0.84,,
+KIC 10001893 d,KIC 10001893,d,,Gaia DR2 2130473176626619136,1,3,0,Orbital Brightness Modulation,2014,Space,Kepler,0.95 m Kepler Telescope,0.81161,,,,,,,,,,,,,,
+KOI-1831 d,Kepler-324,d,,Gaia DR2 2132078120004385152,1,4,0,Transit,2021,Space,Kepler,0.95 m Kepler Telescope,34.169,0.1949,1.1,,,,0.0,471.0,5.1691,48.562056,0.01223,,0.83,,1.8516
+KOI-1833 d,Kepler-968,d,,Gaia DR2 2132152474478407040,1,3,0,Transit,2021,Space,Kepler,0.95 m Kepler Telescope,7.685,0.0632,1.95,,,,0.0,586.0,1.174,49.2,0.03099,,0.58,,38.1846
+KOI-351 d,KOI-351,d,,Gaia DR2 2132193431285570304,1,8,0,Transit,2013,Space,Kepler,0.95 m Kepler Telescope,59.73667,0.308,2.84,,,,0.0,520.0,8.0006,58.2791,0.02168,,1.2,,1.0493
+KOI-94 d,KOI-94,d,,Gaia DR2 2076970047474270208,2,4,0,Transit,2013,Space,Kepler,0.95 m Kepler Telescope,22.342989,0.1596,9.77,,,,0.0,767.0,6.68603,27.2965,0.06897,,1.3,,0.7707
+Kepler-10 d,Kepler-10,d,,Gaia DR2 2132155017099178624,1,3,0,Radial Velocity,2023,Ground,Roque de los Muchachos Observatory,3.58 m Telescopio Nazionale Galileo,151.04,0.5379,,,,,0.26,,,,,,1.06,10.6,
+Kepler-100 d,Kepler-100,d,,Gaia DR2 2101733244046205568,1,3,0,Transit,2014,Space,Kepler,0.95 m Kepler Telescope,35.3331,,,,,,,,6.2276,,,,1.56,,0.3946
+Kepler-102 d,Kepler-102,d,,Gaia DR2 2119583201145735808,1,5,0,Transit,2014,Space,Kepler,0.95 m Kepler Telescope,10.311767,0.0837,1.4,,,,0.0,638.0,3.205,16.43,0.01695,,0.76,,0.7888
+Kepler-104 d,Kepler-104,d,,Gaia DR2 2102454253097554304,2,3,0,Transit,2014,Space,Kepler,0.95 m Kepler Telescope,51.755394,,,,,,,,7.5456,,,,1.05,,1.3035
+Kepler-106 d,Kepler-106,d,,Gaia DR2 2082074942519913344,1,4,0,Transit,2014,Space,Kepler,0.95 m Kepler Telescope,23.9802,0.163,0.93,,,,0.0,653.0,4.6787,36.0,0.00824,,1.04,5.2,
+Kepler-107 d,Kepler-107,d,,Gaia DR2 2086625752425381632,1,4,0,Transit,2014,Space,Kepler,0.95 m Kepler Telescope,7.95839,,1.09,0.097,,,,,4.384,,0.00694,,1.42,5.37,
+Kepler-1073 d,Kepler-1073,d,,Gaia DR2 2052069201482198784,1,3,0,Transit,2021,Space,Kepler,0.95 m Kepler Telescope,2.50476003,0.035,1.16,,,,0.0,1235.0,2.523,6.82,0.01277,,0.83,,0.9585
+Kepler-11 d,Kepler-11,d,,Gaia DR2 2076960598545789824,1,6,0,Transit,2010,Space,Kepler,0.95 m Kepler Telescope,22.6845,0.159,3.43,0.306,6.1,,0.0,,5.58,,,,1.1,8.0,
+Kepler-1130 d,Kepler-1130,d,,Gaia DR2 2106406069684947840,2,3,0,Transit,2021,Space,Kepler,0.95 m Kepler Telescope,4.27225018,0.0506,0.64,,,,0.0,981.0,2.113,10.53,0.00695,,0.84,,1.2086
+Kepler-114 d,Kepler-114,d,,Gaia DR2 2128939873302216320,1,3,0,Transit,2013,Space,Kepler,0.95 m Kepler Telescope,11.776,0.0835,2.05,,,,0.0,447.0,2.9021,29.2,0.03471,,0.54,,3.3926
+Kepler-122 d,Kepler-122,d,,Gaia DR2 2053070616052194304,1,5,0,Transit,2014,Space,Kepler,0.95 m Kepler Telescope,21.587475,,,,,,,,,,,,1.26,,0.7866
+Kepler-124 d,Kepler-124,d,,Gaia DR2 2131287021388901504,1,3,0,Transit,2014,Space,Kepler,0.95 m Kepler Telescope,30.950851,0.17,1.11,0.099,,,,,4.196,,,,0.64,,
+Kepler-1254 d,Kepler-1254,d,,Gaia DR2 2131968065762170624,1,3,0,Transit,2016,Space,Kepler,0.95 m Kepler Telescope,5.72717226,0.058,1.35,,,,0.0,817.0,2.177,19.64,0.01634,,0.76,,4.3695
+Kepler-126 d,Kepler-126,d,,Gaia DR2 2126918008858627712,1,3,0,Transit,2014,Space,Kepler,0.95 m Kepler Telescope,100.283134,,,,,,,,10.9724,,,,1.45,,0.5566
+Kepler-127 d,Kepler-127,d,,Gaia DR2 2107266570672734592,1,3,0,Transit,2014,Space,Kepler,0.95 m Kepler Telescope,48.630408,,,,,,,,,,,,1.45,,0.5272
+Kepler-129 d,Kepler-129,d,,Gaia DR2 2131494313689868416,1,3,0,Radial Velocity,2021,Ground,W. M. Keck Observatory,10 m Keck I Telescope,2646.0,4.0,,,,,0.15,,,,,,1.65,6.43,
+Kepler-130 d,Kepler-130,d,,Gaia DR2 2101305259145506816,2,3,0,Transit,2014,Space,Kepler,0.95 m Kepler Telescope,87.517905,,1.31,0.117,,,0.8,,,,,,1.18,,0.9379
+Kepler-1311 d,Kepler-1311,d,,Gaia DR2 2102877015319104640,1,3,0,Transit,2021,Space,Kepler,0.95 m Kepler Telescope,197.5110016,,9.658,0.862,,,,,,,,,1.67,,0.3607
+Kepler-132 d,Kepler-132,d,,,2,4,0,Transit,2014,Space,Kepler,0.95 m Kepler Telescope,18.010199,0.136,1.55,0.138,,,,,2.91,,,,1.18,,
+Kepler-1321 d,Kepler-1321,d,,Gaia DR2 2128141834020807680,1,3,0,Transit,2021,Space,Kepler,0.95 m Kepler Telescope,5.72092009,0.053,2.7,,,,0.0,625.0,2.7756,10.4,0.041,,0.6,,
+Kepler-138 d,Kepler-138,d,,Gaia DR2 2102053446751282944,1,4,0,Transit,2014,Space,Kepler,0.95 m Kepler Telescope,23.0923,,1.212,0.108,0.64,2.1,,,,,0.0251,,0.44,,9.5
+Kepler-1388 d,Kepler-1388,d,,Gaia DR2 2107617246162706048,1,4,0,Transit,2016,Space,Kepler,0.95 m Kepler Telescope,20.9568158,,,,,,,,,,,,0.6,,3.828
+Kepler-142 d,Kepler-142,d,,Gaia DR2 2128724678262662144,1,3,0,Transit,2014,Space,Kepler,0.95 m Kepler Telescope,41.809118,0.2361,1.67,,,,0.0,582.0,7.797,41.48,0.01252,,1.23,,0.7722
+Kepler-1468 d,Kepler-1468,d,,Gaia DR2 2077389820395188736,1,3,0,Transit,2021,Space,Kepler,0.95 m Kepler Telescope,19.59059906,0.1434,1.7,,,,0.0,687.0,6.665,22.72,0.01598,,0.98,,0.5782
+Kepler-148 d,Kepler-148,d,,Gaia DR2 2127828988601389440,1,3,0,Transit,2016,Space,Kepler,0.95 m Kepler Telescope,51.84688575,,,,,,,,,,,,0.85,,1.9016
+Kepler-149 d,Kepler-149,d,,Gaia DR2 2100015089629466112,1,3,0,Transit,2014,Space,Kepler,0.95 m Kepler Telescope,160.018032,0.5463,3.54,,,,0.0,301.0,5.101,187.3,0.03896,,0.83,,4.856
+Kepler-150 d,Kepler-150,d,,Gaia DR2 2102063136195478656,1,5,0,Transit,2014,Space,Kepler,0.95 m Kepler Telescope,12.56093,0.1045,2.88,,,,0.0,772.0,3.7158,26.563,0.02834,,0.93,,2.2471
+Kepler-1530 d,Kepler-1530,d,,Gaia DR2 2130991596358782464,1,3,0,Transit,2021,Space,Kepler,0.95 m Kepler Telescope,9.20761013,,,,,,,,,,,,0.82,,2.3759
+Kepler-154 d,Kepler-154,d,,Gaia DR2 2133022669212268800,1,5,0,Transit,2016,Space,Kepler,0.95 m Kepler Telescope,20.54981883,0.1415,4.04,,,,0.0,657.0,5.5484,22.9,0.03806,,0.97,,0.5405
+Kepler-1542 d,Kepler-1542,d,,Gaia DR2 2105526799680172032,1,4,0,Transit,2016,Space,Kepler,0.95 m Kepler Telescope,5.99273738,0.0632,0.91,,,,0.0,1010.0,2.6502,15.08,0.00779,,1.06,,1.8074
+Kepler-157 d,Kepler-157,d,,Gaia DR2 2052941389074846336,1,3,0,Transit,2016,Space,Kepler,0.95 m Kepler Telescope,7.02573474,0.0698,1.56,,,,0.0,969.0,2.245,14.56,0.01413,,1.01,,1.1825
+Kepler-160 d,Kepler-160,d,,Gaia DR2 2102587087846067712,1,3,0,Transit Timing Variations,2020,Space,Kepler,0.95 m Kepler Telescope,30.0,0.17,,,100.0,,,,,,,,1.12,,1.2
+Kepler-164 d,Kepler-164,d,,Gaia DR2 2130889204338693504,1,4,0,Transit,2014,Space,Kepler,0.95 m Kepler Telescope,28.986769,,,,,,,,,,,,1.02,,1.5087
+Kepler-166 d,Kepler-166,d,,Gaia DR2 2129025841368107136,1,3,0,Transit,2016,Space,Kepler,0.95 m Kepler Telescope,1.55400393,0.0246,1.58,,,,0.0,1326.0,1.7696,6.791,0.01902,,0.76,,2.453
+Kepler-1669 d,Kepler-1669,d,,Gaia DR2 2073652546016392448,1,3,0,Transit,2023,Space,Kepler,0.95 m Kepler Telescope,4.72941177,0.0468,1.22,,,,0.0,669.0,2.234,16.04,0.01851,,0.6,,3.4878
+Kepler-167 d,Kepler-167,d,,Gaia DR2 2051933102555095936,2,4,0,Transit,2016,Space,Kepler,0.95 m Kepler Telescope,21.80379,0.1404,1.238,0.11,,,0.0,538.0,,,,,0.75,7.1,2.6
+Kepler-169 d,Kepler-169,d,,Gaia DR2 2103788854053938816,1,5,0,Transit,2014,Space,Kepler,0.95 m Kepler Telescope,8.348125,,,,,,,,,,,,0.77,,2.46
+Kepler-171 d,Kepler-171,d,,Gaia DR2 2076955822541823744,1,3,0,Transit,2014,Space,Kepler,0.95 m Kepler Telescope,39.595519,,2.204,0.197,,,,,,,,,0.94,,
+Kepler-172 d,Kepler-172,d,,Gaia DR2 2104506319750394624,1,4,0,Transit,2014,Space,Kepler,0.95 m Kepler Telescope,14.627119,0.1132,2.21,,,,0.0,735.0,3.606,28.2,0.02014,,1.01,,1.9866
+Kepler-174 d,Kepler-174,d,,Gaia DR2 2106008493152187392,1,3,0,Transit,2014,Space,Kepler,0.95 m Kepler Telescope,247.35373,,2.572,0.229,,,,,,,,,0.73,,
+Kepler-176 d,Kepler-176,d,,Gaia DR2 2078286197246582016,1,4,0,Transit,2014,Space,Kepler,0.95 m Kepler Telescope,25.751974,0.1604,2.9,,,,0.0,539.0,2.914,38.5,0.03027,,0.88,,1.6276
+Kepler-178 d,Kepler-178,d,,Gaia DR2 2130634667395736704,1,3,0,Transit,2014,Space,Kepler,0.95 m Kepler Telescope,96.678988,0.3962,3.29,,,,0.0,392.0,5.6957,126.0,0.02804,,1.08,,4.0489
+Kepler-18 d,Kepler-18,d,,Gaia DR2 2079295583282164992,1,3,0,Transit,2011,Space,Kepler,0.95 m Kepler Telescope,14.85888,,6.0,0.535,14.9,0.3,,,,,,,,,
+Kepler-184 d,Kepler-184,d,,Gaia DR2 2125831210335846016,1,3,0,Transit,2014,Space,Kepler,0.95 m Kepler Telescope,29.022358,,,,,,,,,,,,0.87,,2.0362
+Kepler-186 d,Kepler-186,d,,Gaia DR2 2079000330051813504,1,5,0,Transit,2014,Space,Kepler,0.95 m Kepler Telescope,13.342996,,,,,,,,,,,,0.55,,4.6592
+Kepler-19 d,Kepler-19,d,,Gaia DR2 2051106987063242880,1,3,0,Radial Velocity,2017,Ground,Roque de los Muchachos Observatory,3.58 m Telescopio Nazionale Galileo,62.95,,,,22.5,,0.05,,,,,,0.86,1.9,
+Kepler-191 d,Kepler-191,d,,Gaia DR2 2126648731589350272,1,3,0,Transit,2016,Space,Kepler,0.95 m Kepler Telescope,5.94504102,0.0599,2.69,,,,0.0,857.0,2.7004,11.63,0.02842,,0.87,,0.8421
+Kepler-192 d,Kepler-192,d,,Gaia DR2 2130243550494676480,1,3,0,Transit,2016,Space,Kepler,0.95 m Kepler Telescope,6.47027579,,1.02,0.091,,,,,3.241,,0.00999,,0.94,6.76,
+Kepler-194 d,Kepler-194,d,,Gaia DR2 2129234336259850240,1,3,0,Transit,2014,Space,Kepler,0.95 m Kepler Telescope,52.814973,,,,,,,,,,,,1.07,,1.1889
+Kepler-196 d,Kepler-196,d,,Gaia DR2 2104094071610116608,1,3,0,Transit,2021,Space,Kepler,0.95 m Kepler Telescope,122.0800018,,2.661,0.237,,,,,,,,,0.77,,0.9479
+Kepler-197 d,Kepler-197,d,,Gaia DR2 2135179533070399232,2,4,0,Transit,2014,Space,Kepler,0.95 m Kepler Telescope,15.677563,,,,,,,,,,,,1.12,,
+Kepler-198 d,Kepler-198,d,,Gaia DR2 2052852912747829760,1,3,0,Transit,2016,Space,Kepler,0.95 m Kepler Telescope,1.31184443,,,,,,,,2.0322,,,,0.95,,1.6273
+Kepler-1987 d,Kepler-1987,d,,Gaia DR2 2078000289864478976,1,4,0,Transit,2023,Space,Kepler,0.95 m Kepler Telescope,5.64491415,0.0571,2.95,,,,0.0,749.0,2.3168,14.74,0.03706,,0.73,,1.9021
+Kepler-20 d,Kepler-20,d,,Gaia DR2 2102548708017562112,2,6,0,Transit,2011,Space,Kepler,0.95 m Kepler Telescope,77.611455,,,,,,,,7.6201,,,,0.91,,1.7669
+Kepler-203 d,Kepler-203,d,,Gaia DR2 2076792648144511104,1,3,0,Transit,2014,Space,Kepler,0.95 m Kepler Telescope,11.32972,0.099,1.18,,,,0.0,793.0,3.445,25.0,0.0119,,0.91,0.5,
+Kepler-206 d,Kepler-206,d,,Gaia DR2 2101715862321812736,1,3,0,Transit,2014,Space,Kepler,0.95 m Kepler Telescope,23.44281,,1.236,0.11,,,,,,,,,1.09,,
+Kepler-207 d,Kepler-207,d,,Gaia DR2 2101898759208960640,1,3,0,Transit,2014,Space,Kepler,0.95 m Kepler Telescope,5.868075,,3.96,0.353,,,,,,,,,1.71,,
+Kepler-208 d,Kepler-208,d,,Gaia DR2 2077750803804146176,1,4,0,Transit,2014,Space,Kepler,0.95 m Kepler Telescope,11.131786,,,,,,,,,,,,1.32,,0.6794
+Kepler-215 d,Kepler-215,d,,Gaia DR2 2079885608708649344,1,4,0,Transit,2014,Space,Kepler,0.95 m Kepler Telescope,30.864423,0.1798,2.45,,,,0.0,600.0,2.7942,75.0,0.02224,,1.01,,8.363
+Kepler-217 d,Kepler-217,d,,Gaia DR2 2128268380936413568,1,3,0,Transit,2016,Space,Kepler,0.95 m Kepler Telescope,3.88689525,,,,,,,,,,,,1.79,,0.3447
+Kepler-218 d,Kepler-218,d,,Gaia DR2 2080452613110460928,1,3,0,Transit,2016,Space,Kepler,0.95 m Kepler Telescope,124.5244647,0.4853,2.78,,,,0.0,357.0,9.598,101.06,0.02421,,1.05,,1.2591
+Kepler-219 d,Kepler-219,d,,Gaia DR2 2127771917075703424,1,3,0,Transit,2014,Space,Kepler,0.95 m Kepler Telescope,47.903645,0.2709,2.56,,,,0.0,565.0,5.756,63.6,0.01761,,1.33,,2.1205
+Kepler-220 d,Kepler-220,d,,Gaia DR2 2129084935820532608,1,4,0,Transit,2014,Space,Kepler,0.95 m Kepler Telescope,28.122397,0.163,0.98,0.087,,,,,4.103,,,,0.67,,
+Kepler-221 d,Kepler-221,d,,Gaia DR2 2080344586094498432,1,4,0,Transit,2014,Space,Kepler,0.95 m Kepler Telescope,10.04156,,2.835,0.253,,,,,,,,,0.77,,
+Kepler-222 d,Kepler-222,d,,Gaia DR2 2130460394803778816,1,3,0,Transit,2014,Space,Kepler,0.95 m Kepler Telescope,28.081912,,,,,,,,,,,,0.85,,1.9969
+Kepler-223 d,Kepler-223,d,,Gaia DR2 2086337508581280256,1,4,0,Transit,2014,Space,Kepler,0.95 m Kepler Telescope,14.78869,0.116,2.98,0.266,,,,,5.967,,,,1.02,,
+Kepler-224 d,Kepler-224,d,,Gaia DR2 2129161734133025408,1,4,0,Transit,2014,Space,Kepler,0.95 m Kepler Telescope,11.349393,0.089,2.3,0.205,,,,,3.114,,,,0.68,,
+Kepler-226 d,Kepler-226,d,,Gaia DR2 2128504397979254528,1,3,0,Transit,2014,Space,Kepler,0.95 m Kepler Telescope,8.109044,0.0759,1.19,,,,0.0,799.0,3.567,16.8,0.01356,,0.81,,1.3649
+Kepler-228 d,Kepler-228,d,,Gaia DR2 2086660283961964416,1,3,0,Transit,2014,Space,Kepler,0.95 m Kepler Telescope,11.094286,,3.8,0.339,,,,,4.5483,,0.03785,,0.92,4.07,
+Kepler-229 d,Kepler-229,d,,Gaia DR2 2131114947819394816,1,3,0,Transit,2014,Space,Kepler,0.95 m Kepler Telescope,41.194912,0.217,3.86,,,,0.0,439.0,4.6297,70.75,0.04169,,0.85,,3.9471
+Kepler-23 d,Kepler-23,d,,Gaia DR2 2135019107451751168,1,3,0,Transit,2014,Space,Kepler,0.95 m Kepler Telescope,15.274299,0.128,2.81,,,,0.0,1036.0,6.754,17.0,0.01376,,1.87,4.9,
+Kepler-235 d,Kepler-235,d,,Gaia DR2 2100082125479729792,1,4,0,Transit,2014,Space,Kepler,0.95 m Kepler Telescope,20.060548,0.1155,1.99,,,,0.0,350.0,3.3264,43.2,0.03798,,0.48,,3.8004
+Kepler-238 d,Kepler-238,d,,Gaia DR2 2100624562669914240,1,5,0,Transit,2014,Space,Kepler,0.95 m Kepler Telescope,13.233549,,3.615,0.323,,,,,,,,,1.63,,
+Kepler-24 d,Kepler-24,d,,Gaia DR2 2052823535171095296,1,4,0,Transit,2014,Space,Kepler,0.95 m Kepler Telescope,4.244384,,1.72,0.153,,,,,3.018,,0.01352,,1.11,6.17,
+Kepler-244 d,Kepler-244,d,,Gaia DR2 2102469921138142208,1,3,0,Transit,2014,Space,Kepler,0.95 m Kepler Telescope,20.050401,0.1385,2.78,,,,0.0,591.0,4.826,19.25,0.03169,,0.8,,0.3355
+Kepler-245 d,Kepler-245,d,,Gaia DR2 2101768089124657664,1,4,0,Transit,2014,Space,Kepler,0.95 m Kepler Telescope,36.277108,0.202,3.03,0.27,,,,,4.804,,,,0.8,,
+Kepler-247 d,Kepler-247,d,,Gaia DR2 2102911576914748032,1,3,0,Transit,2014,Space,Kepler,0.95 m Kepler Telescope,20.477912,,,,,,,,3.3347,,,,0.84,,1.8999
+Kepler-249 d,Kepler-249,d,,Gaia DR2 2078807228323035008,1,3,0,Transit,2014,Space,Kepler,0.95 m Kepler Telescope,15.368459,0.09198,1.33,0.119,,,,336.0,,,0.029,,0.42,,
+Kepler-25 d,Kepler-25,d,,Gaia DR2 2100451630105041152,2,3,0,Radial Velocity,2014,Ground,W. M. Keck Observatory,10 m Keck I Telescope,122.4,,,,71.9,,0.13,,,,,,1.32,,
+Kepler-250 d,Kepler-250,d,,Gaia DR2 2126903680847794048,1,3,0,Transit,2014,Space,Kepler,0.95 m Kepler Telescope,17.648312,0.1257,2.23,,,,0.0,573.0,2.0201,68.2,0.02564,,0.8,,19.2983
+Kepler-251 d,Kepler-251,d,,Gaia DR2 2078832551450444032,1,4,0,Transit,2014,Space,Kepler,0.95 m Kepler Telescope,30.133001,,3.003,0.268,,,,,,,,,0.83,,
+Kepler-253 d,Kepler-253,d,,Gaia DR2 2126576679217244160,1,3,0,Transit,2014,Space,Kepler,0.95 m Kepler Telescope,18.119869,0.1291,3.17,,,,0.0,569.0,4.2774,29.41,0.0367,,0.79,,1.4653
+Kepler-254 d,Kepler-254,d,,Gaia DR2 2130250731680096384,1,3,0,Transit,2014,Space,Kepler,0.95 m Kepler Telescope,18.746477,,,,,,,,3.8053,,,,0.91,,1.8229
+Kepler-255 d,Kepler-255,d,,Gaia DR2 2080202611655694336,1,3,0,Transit,2016,Space,Kepler,0.95 m Kepler Telescope,1.04562266,,1.323,0.118,,,,,,,,,0.93,,
+Kepler-256 d,Kepler-256,d,,Gaia DR2 2128250926189039488,1,4,0,Transit,2014,Space,Kepler,0.95 m Kepler Telescope,5.839172,0.0651,1.65,,,,0.0,1008.0,3.142,14.05,0.01565,,0.96,,1.5373
+Kepler-257 d,Kepler-257,d,,Gaia DR2 2080246282881778048,1,3,0,Transit,2014,Space,Kepler,0.95 m Kepler Telescope,24.664551,0.16,4.95,0.442,,,,,2.655,,,,1.04,,
+Kepler-26 d,Kepler-26,d,,Gaia DR2 2107317358665730688,1,4,0,Transit,2014,Space,Kepler,0.95 m Kepler Telescope,3.543919,,,,,,,,,,,,0.46,,10.1
+Kepler-265 d,Kepler-265,d,,Gaia DR2 2101776885215761152,1,4,0,Transit,2014,Space,Kepler,0.95 m Kepler Telescope,43.130617,0.236,2.49,0.222,,,,,3.066,,,,1.1,,
+Kepler-267 d,Kepler-267,d,,Gaia DR2 2085626983551485440,1,3,0,Transit,2014,Space,Kepler,0.95 m Kepler Telescope,28.464515,,,,,,,,2.9048,,,,0.55,,4.6928
+Kepler-27 d,Kepler-27,d,,Gaia DR2 2053586321364864640,1,3,0,Transit,2021,Space,Kepler,0.95 m Kepler Telescope,6.54628992,,,,,,,,,,,,0.78,,2.7691
+Kepler-271 d,Kepler-271,d,,Gaia DR2 2105343799713595904,1,3,0,Transit,2016,Space,Kepler,0.95 m Kepler Telescope,5.24972541,0.0554,0.71,,,,0.0,978.0,2.766,14.41,0.00722,,0.9,,2.0549
+Kepler-272 d,Kepler-272,d,,Gaia DR2 2085701097508446464,1,3,0,Transit,2014,Space,Kepler,0.95 m Kepler Telescope,10.937304,,,,,,,,,,,,1.18,,0.8395
+Kepler-275 d,Kepler-275,d,,Gaia DR2 2051950454223150720,1,3,0,Transit,2014,Space,Kepler,0.95 m Kepler Telescope,35.676062,,,,,,,,6.0306,,,,1.44,,0.5623
+Kepler-276 d,Kepler-276,d,,Gaia DR2 2052304325169514880,1,3,0,Transit,2013,Space,Kepler,0.95 m Kepler Telescope,48.648,,2.74,0.244,18.4,,,,,,,,1.03,,
+Kepler-279 d,Kepler-279,d,,Gaia DR2 2102456726998624640,1,3,0,Transit,2013,Space,Kepler,0.95 m Kepler Telescope,54.414,,,,,,,,,,,,1.35,,0.8084
+Kepler-281 d,Kepler-281,d,,Gaia DR2 2078404532186285568,1,3,0,Transit,2021,Space,Kepler,0.95 m Kepler Telescope,148.2720032,0.5456,4.52,,,,0.0,321.0,4.09,159.3,0.04682,,0.88,,3.4774
+Kepler-282 d,Kepler-282,d,,Gaia DR2 2106739943262307200,1,4,0,Transit,2013,Space,Kepler,0.95 m Kepler Telescope,24.806,0.171,2.46,,,,0.0,653.0,5.5428,23.3,0.02273,,0.99,0.4,
+Kepler-286 d,Kepler-286,d,,Gaia DR2 2129503716608032256,1,4,0,Transit,2014,Space,Kepler,0.95 m Kepler Telescope,5.914323,0.065,1.46,,,,0.0,995.0,2.5635,17.1,0.01446,,0.93,0.5,
+Kepler-288 d,Kepler-288,d,,Gaia DR2 2101215309651322880,1,3,0,Transit,2014,Space,Kepler,0.95 m Kepler Telescope,56.633742,0.2926,3.68,,,,0.0,570.0,6.172,68.6,0.02216,,1.52,,1.9004
+Kepler-289 d,Kepler-289,d,,Gaia DR2 2078515170549178880,1,3,0,Transit,2014,Space,Kepler,0.95 m Kepler Telescope,66.0634,0.33,2.68,0.239,4.0,1.2,,,3.557,70.7,0.0246,,1.0,0.65,1.58
+Kepler-290 d,Kepler-290,d,,Gaia DR2 2105538623730974848,1,3,0,Transit,2023,Space,Kepler,0.95 m Kepler Telescope,0.76401755,0.0154,0.89,,,,0.0,1596.0,1.134,5.06,0.01075,,0.76,,4.2052
+Kepler-292 d,Kepler-292,d,,Gaia DR2 2077140987172577408,1,5,0,Transit,2014,Space,Kepler,0.95 m Kepler Telescope,7.055679,0.0701,2.57,,,,0.0,879.0,3.1536,17.53,0.02571,,0.92,,2.0474
+Kepler-295 d,Kepler-295,d,,Gaia DR2 2106402496271967360,1,3,0,Transit,2014,Space,Kepler,0.95 m Kepler Telescope,33.884054,,,,,,,,6.51,,,,2.38,,
+Kepler-296 d,Kepler-296,d,,Gaia DR2 2132069633148965888,2,5,0,Transit,2014,Space,Kepler,0.95 m Kepler Telescope,19.850291,,1.65,0.147,,,,,2.9233,,0.04073,,0.37,4.37,
+Kepler-297 d,Kepler-297,d,,Gaia DR2 2131748747552136960,1,3,0,Transit,2023,Space,Kepler,0.95 m Kepler Telescope,150.0189511,,,,,,,,,,,,0.89,,2.0667
+Kepler-298 d,Kepler-298,d,,Gaia DR2 2143758128946411904,1,3,0,Transit,2014,Space,Kepler,0.95 m Kepler Telescope,77.473633,,,,,,,,,,,,0.69,,3.057
+Kepler-299 d,Kepler-299,d,,Gaia DR2 2131737340118958336,1,4,0,Transit,2014,Space,Kepler,0.95 m Kepler Telescope,15.054786,,,,,,,,,,,,1.0,,1.4125
+Kepler-30 d,Kepler-30,d,,Gaia DR2 2100243616248608896,1,3,0,Transit,2012,Space,Kepler,0.95 m Kepler Telescope,143.34394,0.5336,8.9,,,,0.0,308.0,8.9302,125.8,0.09404,,0.87,,1.8345
+Kepler-301 d,Kepler-301,d,,Gaia DR2 2131867357368794624,1,3,0,Transit,2014,Space,Kepler,0.95 m Kepler Telescope,13.751243,,,,,,,,,,,,0.96,,1.5949
+Kepler-304 d,Kepler-304,d,,Gaia DR2 2076565805151925760,1,4,0,Transit,2014,Space,Kepler,0.95 m Kepler Telescope,9.653471,,,,,,,,,,,,0.71,,2.9409
+Kepler-305 d,Kepler-305,d,,Gaia DR2 2073547954981763328,1,4,0,Transit,2014,Space,Kepler,0.95 m Kepler Telescope,16.738661,,2.7,0.241,9.1,2.5,,,,,,,,,
+Kepler-306 d,Kepler-306,d,,Gaia DR2 2102067396802935680,1,4,0,Transit,2014,Space,Kepler,0.95 m Kepler Telescope,17.326644,0.1203,2.23,,,,0.0,535.0,4.269,21.64,0.0283,,0.72,,0.6387
+Kepler-31 d,Kepler-31,d,,Gaia DR2 2128013019361703936,1,3,0,Transit,2014,Space,Kepler,0.95 m Kepler Telescope,87.6451,0.411,4.2,,,,0.0,480.0,9.2599,46.3,0.03332,,1.15,0.28,
+Kepler-310 d,Kepler-310,d,,Gaia DR2 2127798442794047104,1,3,0,Transit,2014,Space,Kepler,0.95 m Kepler Telescope,92.876125,0.387,2.38,,,,0.0,380.0,7.048,62.1,0.02552,,0.85,,0.5251
+Kepler-311 d,Kepler-311,d,,Gaia DR2 2119534646538533888,1,3,0,Transit,2023,Space,Kepler,0.95 m Kepler Telescope,232.040326,0.7319,2.01,,,,0.0,316.0,11.751,135.2,0.01702,,1.08,,0.868
+Kepler-319 d,Kepler-319,d,,Gaia DR2 2101230049979183232,1,3,0,Transit,2014,Space,Kepler,0.95 m Kepler Telescope,31.781925,,,,,,,,3.994,,,,0.87,,2.1515
+Kepler-32 d,Kepler-32,d,,Gaia DR2 2080287892525359872,1,5,0,Transit,2012,Space,Kepler,0.95 m Kepler Telescope,22.7802,0.128,2.7,0.241,,,,340.0,,,,,0.53,2.0,
+Kepler-325 d,Kepler-325,d,,Gaia DR2 2133021810218800384,1,3,0,Transit,2014,Space,Kepler,0.95 m Kepler Telescope,38.715185,,,,,,,,,,,,0.8,,2.7611
+Kepler-326 d,Kepler-326,d,,Gaia DR2 2128098197152438144,1,3,0,Transit,2014,Space,Kepler,0.95 m Kepler Telescope,6.766888,,,,,,,,,,,,1.04,,1.1103
+Kepler-327 d,Kepler-327,d,,Gaia DR2 2126336710805475712,1,3,0,Transit,2014,Space,Kepler,0.95 m Kepler Telescope,13.969457,0.0901,1.7,,,,0.0,392.0,1.4165,63.8,0.0317,,0.49,,25.189
+Kepler-33 d,Kepler-33,d,,Gaia DR2 2127355923723254272,1,5,0,Transit,2011,Space,Kepler,0.95 m Kepler Telescope,21.77596,0.166,5.5,,,,0.0,862.0,8.0979,15.19,0.02769,,1.82,4.24,
+Kepler-331 d,Kepler-331,d,,Gaia DR2 2052794982231985664,1,3,0,Transit,2014,Space,Kepler,0.95 m Kepler Telescope,32.134328,0.1607,1.92,,,,0.0,345.0,2.696,82.1,0.03373,,0.52,,10.1234
+Kepler-332 d,Kepler-332,d,,Gaia DR2 2130683904901068800,1,3,0,Transit,2014,Space,Kepler,0.95 m Kepler Telescope,34.21154,0.1917,1.41,,,,0.0,481.0,4.944,46.0,0.01499,,0.86,,1.5755
+Kepler-334 d,Kepler-334,d,,Gaia DR2 2130661880308812800,1,3,0,Transit,2014,Space,Kepler,0.95 m Kepler Telescope,25.09849,0.1654,1.59,,,,0.0,656.0,2.7727,41.7,0.01326,,1.09,,2.1809
+Kepler-336 d,Kepler-336,d,,Gaia DR2 2101792175299215488,1,3,0,Transit,2014,Space,Kepler,0.95 m Kepler Telescope,20.678772,,,,,,,,4.7842,,,,,,
+Kepler-338 d,Kepler-338,d,,Gaia DR2 2104344141784539264,1,4,0,Transit,2014,Space,Kepler,0.95 m Kepler Telescope,44.431014,0.254,2.46,,,,0.0,634.0,10.3376,25.1,0.01492,,1.51,6.5,
+Kepler-339 d,Kepler-339,d,,Gaia DR2 2128911251641171200,1,3,0,Transit,2014,Space,Kepler,0.95 m Kepler Telescope,10.558345,,1.07,0.095,,,,,,,,,0.78,,
+Kepler-341 d,Kepler-341,d,,Gaia DR2 2102815683186036096,1,4,0,Transit,2014,Space,Kepler,0.95 m Kepler Telescope,27.666313,0.1791,1.96,,,,0.0,627.0,6.225,26.2,0.01787,,1.0,,0.4427
+Kepler-342 d,Kepler-342,d,,Gaia DR2 2128298617506651904,1,4,0,Transit,2014,Space,Kepler,0.95 m Kepler Telescope,39.459357,0.2412,2.32,,,,0.0,631.0,9.619,10.34,0.01801,,1.18,,0.0135
+Kepler-347 d,Kepler-347,d,,Gaia DR2 2132614922197436928,1,3,0,Transit,2023,Space,Kepler,0.95 m Kepler Telescope,85.517344,,,,,,,,,,,,1.45,,0.4834
+Kepler-350 d,Kepler-350,d,,Gaia DR2 2100338792724606720,1,3,0,Transit,2013,Space,Kepler,0.95 m Kepler Telescope,26.136,0.1723,2.46,,,,0.0,738.0,6.604,29.2,0.01804,,1.25,,0.6896
+Kepler-351 d,Kepler-351,d,,Gaia DR2 2105491997566014336,1,3,0,Transit,2016,Space,Kepler,0.95 m Kepler Telescope,142.544247,,2.72,0.243,,,,,8.949,,0.03207,,0.78,4.9,
+Kepler-352 d,Kepler-352,d,,Gaia DR2 2085281530744134272,1,3,0,Transit,2021,Space,Kepler,0.95 m Kepler Telescope,6.88727999,0.0665,0.66,,,,0.0,777.0,2.425,21.41,0.00807,,0.75,,3.9144
+Kepler-354 d,Kepler-354,d,,Gaia DR2 2103860562828483712,1,3,0,Transit,2014,Space,Kepler,0.95 m Kepler Telescope,24.209842,0.146,1.24,0.111,,,,,4.373,,,,0.67,,
+Kepler-357 d,Kepler-357,d,,Gaia DR2 2126194667646233984,1,3,0,Transit,2014,Space,Kepler,0.95 m Kepler Telescope,49.499875,,,,,,,,6.0347,,,,0.74,,2.7449
+Kepler-359 d,Kepler-359,d,,Gaia DR2 2077683871034907648,1,3,0,Transit,2014,Space,Kepler,0.95 m Kepler Telescope,77.095691,,4.6,0.41,2.7,0.1,,,,,,,,,
+Kepler-363 d,Kepler-363,d,,Gaia DR2 2104466153215402624,1,3,0,Transit,2014,Space,Kepler,0.95 m Kepler Telescope,11.932125,,1.83,0.163,,,,,6.304,,0.01284,,1.29,5.25,
+Kepler-37 d,Kepler-37,d,,Gaia DR2 2106674071344722688,1,4,0,Transit,2013,Space,Kepler,0.95 m Kepler Telescope,39.7922622,0.2121,1.88,,,,0.0,456.0,4.4474,69.85,0.02225,,0.77,,4.0718
+Kepler-372 d,Kepler-372,d,,Gaia DR2 2129931942027348608,1,3,0,Transit,2014,Space,Kepler,0.95 m Kepler Telescope,30.092568,0.201,1.69,0.151,,,,,7.499,,,,1.14,,
+Kepler-374 d,Kepler-374,d,,Gaia DR2 2077745168807120128,1,3,0,Transit,2014,Space,Kepler,0.95 m Kepler Telescope,5.028219,,1.849,0.165,,,,,,,,,1.38,,
+Kepler-381 d,Kepler-381,d,,Gaia DR2 2105835281411929728,1,3,0,Transit,2021,Space,Kepler,0.95 m Kepler Telescope,8.25629997,,1.067,0.095,,,,,,,,,2.19,,1.685
+Kepler-385 d,Kepler-385,d,,Gaia DR2 2135203000771400320,1,3,0,Transit,2020,Space,Kepler,0.95 m Kepler Telescope,56.4159,0.2967,2.46,,,,0.0,549.0,7.869,54.4,0.01951,,1.15,,0.9593
+Kepler-394 d,Kepler-394,d,,Gaia DR2 2135378231142791808,1,3,0,Transit,2021,Space,Kepler,0.95 m Kepler Telescope,5.61358023,0.0647,1.5,,,,0.0,1197.0,2.95,14.22,0.01193,,1.15,,1.727
+Kepler-398 d,Kepler-398,d,,Gaia DR2 2053457644144430848,1,3,0,Transit,2016,Space,Kepler,0.95 m Kepler Telescope,6.83437001,,0.88,0.079,,,,,2.1537,,0.01174,,0.67,2.34,
+Kepler-399 d,Kepler-399,d,,Gaia DR2 2075060264503601280,1,3,0,Transit,2014,Space,Kepler,0.95 m Kepler Telescope,58.034616,0.2838,3.21,,,,0.0,486.0,5.584,81.4,0.02552,,1.15,,3.03
+Kepler-401 d,Kepler-401,d,,Gaia DR2 2133178765503484160,1,3,0,Transit,2016,Space,Kepler,0.95 m Kepler Telescope,184.256405,,,,,,,,,,,,1.7,,0.3327
+Kepler-402 d,Kepler-402,d,,Gaia DR2 2102954187290293120,1,4,0,Transit,2014,Space,Kepler,0.95 m Kepler Telescope,8.921099,0.0879,1.26,,,,0.0,1070.0,3.922,17.49,0.0095,,1.22,,1.2716
+Kepler-403 d,Kepler-403,d,,Gaia DR2 2127815657021840128,1,3,0,Transit,2016,Space,Kepler,0.95 m Kepler Telescope,13.61159129,,,,,,,,,,,,1.87,,0.2469
+Kepler-411 d,Kepler-411,d,,Gaia DR2 2132768952604988672,2,4,0,Transit,2018,Space,Kepler,0.95 m Kepler Telescope,58.02035,0.2757,3.51,,,,0.0,367.0,5.669,37.4,0.0419,,0.77,,0.2944
+Kepler-416 d,Kepler-416,d,,Gaia DR2 2052975370856687744,1,3,0,Transit,2023,Space,Kepler,0.95 m Kepler Telescope,3.07644709,0.0414,1.68,,,,0.0,1343.0,2.5743,9.21,0.01434,,1.07,,1.5617
+Kepler-42 d,Kepler-42,d,,Gaia DR2 2126556132093765888,1,3,0,Transit,2011,Space,Kepler,0.95 m Kepler Telescope,1.865169,0.0151,0.66,,,,0.0,455.0,0.4279,22.8,0.04072,,0.15,,64.0474
+Kepler-431 d,Kepler-431,d,,Gaia DR2 2116862833283266432,1,3,0,Transit,2015,Space,Kepler,0.95 m Kepler Telescope,11.922,0.1054,1.22,,,,0.0,1109.0,4.932,18.28,0.00662,,1.68,,0.8134
+Kepler-444 d,Kepler-444,d,,Gaia DR2 2101486923385239808,3,5,0,Transit,2015,Space,Kepler,0.95 m Kepler Telescope,6.189392,,0.5,0.045,0.2,7.9,,,,,,,,,
+Kepler-445 d,Kepler-445,d,,Gaia DR2 2085482775729637376,1,3,0,Transit,2015,Space,Kepler,0.95 m Kepler Telescope,8.15275,,,,,,,,,,,,0.3,,14.3926
+Kepler-446 d,Kepler-446,d,,Gaia DR2 2106929849536047744,1,3,0,Transit,2015,Space,Kepler,0.95 m Kepler Telescope,5.148921,0.0455,2.44,,,,0.0,489.0,0.9441,43.43,0.04848,,0.46,,58.4665
+Kepler-450 d,Kepler-450,d,,Gaia DR2 2135590578620605568,1,3,0,Transit,2015,Space,Kepler,0.95 m Kepler Telescope,7.51464,,0.941,0.084,17.6,,,,,10.859,,,1.6,,
+Kepler-451 d,2MASS J19383260+4603591,d,,Gaia DR2 2080063931448749824,2,3,0,Eclipse Timing Variations,2022,Space,Multiple Observatories,Multiple Telescopes,43.0,,,,,,0.0,,,,,,0.2,,
+Kepler-454 d,Kepler-454,d,,Gaia DR2 2099541715513813504,2,3,0,Radial Velocity,2023,Ground,Roque de los Muchachos Observatory,3.58 m Telescopio Nazionale Galileo,4073.0,5.1,,,,,0.089,,,,,,1.07,5.25,
+Kepler-457 d,KOI-7892,d,,Gaia DR2 2105414310196331264,1,3,0,Transit,2021,Space,Kepler,0.95 m Kepler Telescope,10.6906004,,,,,,,,,,,,1.26,,0.8182
+Kepler-46 d,Kepler-46,d,,Gaia DR2 2102700131386216576,1,3,0,Transit,2014,Space,Kepler,0.95 m Kepler Telescope,6.766589,0.0672,2.17,,,,0.0,845.0,2.9869,14.46,0.02133,,0.93,,1.249
+Kepler-47 d,Kepler-47,d,,Gaia DR2 2080506523540902912,2,3,0,Transit,2019,Space,Kepler,0.95 m Kepler Telescope,187.366,0.6992,7.04,0.628,19.02,0.3,0.024,,,,0.06873,,0.94,,1.65
+Kepler-48 d,Kepler-48,d,,Gaia DR2 2075112109039378688,1,4,0,Transit,2014,Space,Kepler,0.95 m Kepler Telescope,42.8961,0.2279,2.0,,,,0.0,448.0,5.6897,58.81,0.02097,,0.87,,2.0905
+Kepler-487 d,Kepler-487,d,,Gaia DR2 2076692386427776768,1,3,0,Transit,2021,Space,Kepler,0.95 m Kepler Telescope,2.41839004,0.0341,2.79,,,,0.0,1270.0,2.2361,4.37,0.02932,,0.87,,0.2705
+Kepler-49 d,Kepler-49,d,,Gaia DR2 2053523271244105216,1,4,0,Transit,2014,Space,Kepler,0.95 m Kepler Telescope,2.576549,,,,,,,,1.9083,,,,0.67,,2.9755
+Kepler-51 d,Kepler-51,d,,Gaia DR2 2135275362382289280,1,3,0,Transit,2014,Space,Kepler,0.95 m Kepler Telescope,130.194,0.51,10.0,,,,0.0,361.0,8.4192,129.4,0.09717,,0.94,0.3,
+Kepler-52 d,Kepler-52,d,,Gaia DR2 2133589776693414016,1,3,0,Transit,2014,Space,Kepler,0.95 m Kepler Telescope,36.445171,0.1774,1.8,,,,0.0,300.0,3.9133,72.95,0.03051,,0.54,,5.5289
+Kepler-529 d,Kepler-529,d,,Gaia DR2 2131505514964760832,1,3,0,Transit,2021,Space,Kepler,0.95 m Kepler Telescope,35.86619949,0.222,1.78,,,,0.0,601.0,6.9928,28.2,0.01561,,1.04,0.2,
+Kepler-53 d,Kepler-53,d,,Gaia DR2 2101188990094347648,1,3,0,Transit,2014,Space,Kepler,0.95 m Kepler Telescope,9.751962,0.091,2.1,,,,0.0,875.0,4.0291,14.4,0.01987,,0.97,0.3,
+Kepler-54 d,Kepler-54,d,,Gaia DR2 2077974687557384704,1,3,0,Transit,2014,Space,Kepler,0.95 m Kepler Telescope,20.995694,,1.36,0.121,,,,,2.8099,,0.02696,,0.46,4.17,
+Kepler-549 d,Kepler-549,d,,Gaia DR2 2107622335702262400,1,3,0,Transit,2023,Space,Kepler,0.95 m Kepler Telescope,24.61480613,,,,,,,,,,,,0.85,,2.09
+Kepler-55 d,Kepler-55,d,,Gaia DR2 2105930840143687680,1,5,0,Transit,2014,Space,Kepler,0.95 m Kepler Telescope,2.211099,0.0287,1.64,,,,0.0,952.0,1.746,9.819,0.02286,,0.66,,3.6635
+Kepler-56 d,Kepler-56,d,,Gaia DR2 2077617930392844800,1,3,0,Radial Velocity,2016,Ground,Multiple Observatories,Multiple Telescopes,1002.0,2.16,,,,,0.2,,,,,,4.22,,
+Kepler-58 d,Kepler-58,d,,Gaia DR2 2073274618947678464,1,4,0,Transit,2014,Space,Kepler,0.95 m Kepler Telescope,40.101371,0.232,2.7,,,,0.0,581.0,5.5417,33.0,0.0226,,1.09,4.0,
+Kepler-60 d,Kepler-60,d,,Gaia DR2 2102316985943863424,1,3,0,Transit,2012,Space,Kepler,0.95 m Kepler Telescope,11.8981,,1.99,0.178,4.16,2.91,,,,,,,1.26,,
+Kepler-603 d,Kepler-603,d,,Gaia DR2 2077556465126659456,1,3,0,Transit,2016,Space,Kepler,0.95 m Kepler Telescope,6.2171292,,,,,,,,,,,,1.54,,0.4044
+Kepler-616 d,Kepler-616,d,,Gaia DR2 2080484842545877120,1,3,0,Transit,2021,Space,Kepler,0.95 m Kepler Telescope,51.06740189,0.2749,2.62,,,,0.0,499.0,4.407,80.8,0.02457,,0.98,,3.8324
+Kepler-618 d,Kepler-619,d,,Gaia DR2 2129503235571760128,1,3,0,Transit,2023,Space,Kepler,0.95 m Kepler Telescope,11.67894236,,,,,,,,1.5439,,,,0.94,,1.7472
+Kepler-62 d,Kepler-62,d,,Gaia DR2 2107001283431633408,1,5,0,Transit,2013,Space,Kepler,0.95 m Kepler Telescope,18.16406,,2.122,0.189,,,,,,,,,0.71,,
+Kepler-65 d,Kepler-65,d,,Gaia DR2 2102119176929154304,1,4,0,Transit,2012,Space,Kepler,0.95 m Kepler Telescope,8.13123,,1.506,0.134,,,0.1,,,,,,1.51,,0.4786
+Kepler-68 d,Kepler-68,d,,Gaia DR2 2129550445852902656,2,4,0,Radial Velocity,2013,Ground,W. M. Keck Observatory,10 m Keck I Telescope,632.62,,,,,,0.112,,,,,,1.26,,0.7511
+Kepler-758 d,Kepler-758,d,,Gaia DR2 2053552270863859712,1,4,0,Transit,2016,Space,Kepler,0.95 m Kepler Telescope,20.4966197,,2.12,0.189,,,,,6.38,,0.01362,,1.42,3.8,
+Kepler-763 d,Kepler-763,d,,Gaia DR2 2128369501647063808,1,3,0,Transit,2023,Space,Kepler,0.95 m Kepler Telescope,6.50327035,0.0654,1.58,,,,0.0,808.0,2.608,19.4,0.01823,,0.79,,3.268
+Kepler-770 d,Kepler-770,d,,Gaia DR2 2099980386293545216,1,3,0,Transit,2016,Space,Kepler,0.95 m Kepler Telescope,4.15244722,0.0474,1.14,,,,0.0,969.0,2.5916,12.366,0.01392,,0.75,,2.0745
+Kepler-79 d,Kepler-79,d,,Gaia DR2 2076085318570299136,1,4,0,Transit,2014,Space,Kepler,0.95 m Kepler Telescope,52.0902,0.2807,5.7,,,,0.0,542.0,8.6329,48.4089,0.0503,,1.04,,0.7909
+Kepler-80 d,Kepler-80,d,,Gaia DR2 2076328963475704576,1,6,0,Transit,2014,Space,Kepler,0.95 m Kepler Telescope,3.07222,0.0347,1.34,,,,0.0,722.0,1.9974,9.24,0.02153,,0.57,,1.5814
+Kepler-81 d,Kepler-81,d,,Gaia DR2 2077816087307845248,1,3,0,Transit,2014,Space,Kepler,0.95 m Kepler Telescope,20.837846,0.128,1.39,,,,0.0,427.0,2.6086,26.9,0.0215,,0.59,6.8,
+Kepler-82 d,Kepler-82,d,,Gaia DR2 2125850623586710400,1,5,0,Transit,2014,Space,Kepler,0.95 m Kepler Telescope,2.382961,,,,,,,,,,,,0.96,,1.4724
+Kepler-83 d,Kepler-83,d,,Gaia DR2 2105261134483173632,2,3,0,Transit,2014,Space,Kepler,0.95 m Kepler Telescope,5.169796,0.0477,1.81,,,,0.0,567.0,2.1723,17.02,0.03185,,0.52,,3.4918
+Kepler-84 d,Kepler-84,d,,Gaia DR2 2073776859551124992,1,5,0,Transit,2014,Space,Kepler,0.95 m Kepler Telescope,4.224537,0.0512,1.3,,,,0.0,1188.0,3.028,10.448,0.0116,,1.02,,1.2089
+Kepler-85 d,Kepler-85,d,,Gaia DR2 2127398083121764736,1,4,0,Transit,2014,Space,Kepler,0.95 m Kepler Telescope,17.91323,,1.386,0.124,,,,,,,,,0.87,,
+Kepler-88 d,KOI-142,d,,Gaia DR2 2101507367429089664,1,3,0,Radial Velocity,2020,Ground,W. M. Keck Observatory,10 m Keck I Telescope,1403.0,,,,,,0.41,,,,,,0.9,,
+Kepler-9 d,Kepler-9,d,,Gaia DR2 2099925719951103872,1,3,0,Transit,2010,Space,Kepler,0.95 m Kepler Telescope,1.592851,,,,,,,,,,,,1.05,,1.253
+Kepler-92 d,Kepler-92,d,,Gaia DR2 2102224661326132864,1,3,0,Transit,2015,Space,Kepler,0.95 m Kepler Telescope,49.3568,,2.03,0.181,,,,,,,,,1.78,,
+L 98-59 d,L 98-59,d,,Gaia DR2 5271055243163629056,1,4,0,Transit,2019,Space,Transiting Exoplanet Survey Satellite (TESS),0.1 m TESS Telescope,7.450729,0.0486,1.521,0.136,1.94,2.95,0.074,416.0,0.84,33.7,0.0448,,0.3,0.8,12.8999
+LP 791-18 d,LP 791-18,d,,Gaia DR2 3562427951852172288,1,3,0,Transit,2023,Space,Spitzer Space Telescope,0.85 m Spitzer Space Telescope,2.753436,0.01992,1.032,0.092,0.9,,0.0015,396.0,0.9152,,0.05192,,0.18,0.5,32.5106
+NN Ser d,NN Ser,d,,Gaia DR2 1191504471436192512,2,2,0,Eclipse Timing Variations,2010,Ground,Multiple Observatories,Multiple Telescopes,2883.5,3.43,,,731.0,,0.19,,,,,,,,
+PSR B1257+12 d,PSR B1257+12,d,,,1,3,0,Pulsar Timing,1992,Ground,Arecibo Observatory,305 m Arecibo Radio Telescope,98.2114,0.47,,,,,0.02,,,,,,,0.8,
+TOI-1136 d,TOI-1136,d,,Gaia DR2 1677343097418015488,1,6,0,Transit,2022,Space,Transiting Exoplanet Survey Satellite (TESS),0.1 m TESS Telescope,12.51937,,5.589,0.499,,,,1393.0,5.38,,,,0.98,,
+TOI-1246 d,TOI-1246,d,,Gaia DR2 1650110904522335744,1,4,0,Transit,2022,Space,Transiting Exoplanet Survey Satellite (TESS),0.1 m TESS Telescope,18.6559,0.131,3.51,0.313,5.3,0.7,,586.0,,35.7,0.036,,0.86,,
+TOI-125 d,TOI-125,d,,Gaia DR2 4698692744355471616,1,3,0,Transit,2020,Space,Transiting Exoplanet Survey Satellite (TESS),0.1 m TESS Telescope,19.98,0.137,2.93,0.261,13.6,2.98,0.168,638.0,3.1128,34.77,0.0317,,0.85,6.8,1.99
+TOI-1260 d,TOI-1260,d,,Gaia DR2 1053809778428567680,1,3,0,Transit,2022,Space,Transiting Exoplanet Survey Satellite (TESS),0.1 m TESS Telescope,16.608164,,3.832,0.342,,,,323.0,3.8714976,,,,0.69,,
+TOI-1749 d,TOI-1749,d,,Gaia DR2 2253774094189458432,1,3,0,Transit,2021,Space,Transiting Exoplanet Survey Satellite (TESS),0.1 m TESS Telescope,9.0497,0.0707,2.52,0.225,15.0,,0.062,533.0,,,0.0421,,0.55,0.8,5.02
+TOI-178 d,TOI-178,d,,Gaia DR2 2318295979126499200,1,6,0,Transit,2021,Space,Transiting Exoplanet Survey Satellite (TESS),0.1 m TESS Telescope,6.5577,0.0592,2.572,0.229,3.01,0.976,,690.0,2.346,19.57,0.03623,,0.65,7.1,3.31
+TOI-2076 d,TOI-2076,d,,Gaia DR2 1490845584382687232,1,3,0,Transit,2021,Space,Transiting Exoplanet Survey Satellite (TESS),0.1 m TESS Telescope,35.12537,0.1539,3.232,0.288,,,,530.0,3.046,,0.03848,,0.77,0.34,
+TOI-270 d,TOI-270,d,,Gaia DR2 4781196115469953024,1,3,0,Transit,2019,Space,Transiting Exoplanet Survey Satellite (TESS),0.1 m TESS Telescope,11.379573,0.0733,2.13,0.19,,,0.0,340.0,2.148,41.56,0.05143,,0.38,,10.5
+TOI-4010 d,TOI-4010,d,,Gaia DR2 525352325110310400,1,4,0,Transit,2023,Space,Transiting Exoplanet Survey Satellite (TESS),0.1 m TESS Telescope,14.70886,0.113,6.18,0.551,38.15,0.9,0.07,650.0,3.6,,0.068,,0.83,6.1,
+TOI-431 d,TOI-431,d,,Gaia DR2 2908664557091200768,1,3,0,Transit,2021,Space,Transiting Exoplanet Survey Satellite (TESS),0.1 m TESS Telescope,12.46103,,3.281,0.293,,,,589.0,3.3195777,,,,0.73,,
+TOI-451 d,TOI-451,d,,Gaia DR2 4844691297067063424,2,3,0,Transit,2020,Space,Transiting Exoplanet Survey Satellite (TESS),0.1 m TESS Telescope,16.364988,,3.925,0.35,,,,634.0,4.0478302,,,,0.86,,
+TOI-500 d,TOI-500,d,,Gaia DR2 5509620021956148736,1,4,0,Radial Velocity,2022,Ground,La Silla Observatory,3.6 m ESO Telescope,26.233,,,,,,0.016,,,,,,0.68,5.0,
+TOI-561 d,TOI-561,d,,Gaia DR2 3850421005290172416,1,4,0,Transit,2020,Space,Transiting Exoplanet Survey Satellite (TESS),0.1 m TESS Telescope,25.7124,0.159,2.82,0.252,12.15,2.81,,,,,,,0.83,10.0,1.95
+TOI-700 d,TOI-700,d,,Gaia DR2 5284517766615492736,1,4,0,Transit,2020,Space,Transiting Exoplanet Survey Satellite (TESS),0.1 m TESS Telescope,37.42396,0.1633,1.144,0.102,,,0.111,269.0,3.3216,82.9,0.02476,,0.42,,7.68
+TOI-712 d,TOI-712,d,,Gaia DR2 5284358990266469760,1,3,0,Transit,2022,Space,Transiting Exoplanet Survey Satellite (TESS),0.1 m TESS Telescope,84.8396,0.3405,2.474,0.221,,,0.073,314.0,5.702,,0.03362,,0.67,0.83,3.36
+TRAPPIST-1 d,TRAPPIST-1,d,,Gaia DR2 2635476908753563008,1,7,0,Transit,2016,Ground,La Silla Observatory,0.60 m Transiting Planets and Planetesimals Small Telescope,4.049219,0.02226,,,,,,286.0,0.8228,38.85,,,0.12,,67.6435
+V1298 Tau d,V1298 Tau,d,,Gaia DR2 51886335968692480,3,4,0,Transit,2019,Space,K2,0.95 m Kepler Telescope,12.4032,,6.13,0.55,,,,,5.59,,0.0409,,1.33,,
+WASP-47 d,WASP-47,d,,Gaia DR2 2613413008919918976,1,4,0,Transit,2015,Space,K2,0.95 m Kepler Telescope,9.03055,0.088,3.71,0.331,16.8,1.8,0.006,,,16.327,0.02931,,1.16,6.5,0.999
+Wolf 1061 d,Wolf 1061,d,,Gaia DR2 4330690742322011520,1,3,0,Radial Velocity,2015,Ground,La Silla Observatory,3.6 m ESO Telescope,217.21,0.2039,,,,,0.32,,,,,,,,
+YZ Cet d,YZ Cet,d,,Gaia DR2 2358524597030794112,1,3,0,Radial Velocity,2017,Ground,La Silla Observatory,3.6 m ESO Telescope,4.65626,0.0276,,,,,0.02,,,,,,0.17,,
+pi Men d,HD 39091,d,HD 39091,Gaia DR2 4623036865373793408,1,3,0,Radial Velocity,2022,Ground,La Silla Observatory,3.6 m ESO Telescope,124.64,,,,,,0.22,,,,,,1.19,3.92,
+rho CrB d,rho CrB,d,HD 143761,Gaia DR2 1323427759184545536,1,4,0,Radial Velocity,2023,Ground,Lowell Observatory,4.3 m Lowell Discovery Telescope,282.2,0.827,,,,,0.0,,,,,,1.34,10.2,
+ups And d,ups And,d,HD 9826,Gaia DR2 348020448377061376,2,3,0,Radial Velocity,1999,Ground,Multiple Observatories,Multiple Telescopes,1276.46,2.517,,,,,0.294,,,,,,1.62,,

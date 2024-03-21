@@ -1,0 +1,308 @@
+pl_name,lightyears,planet Type
+47 UMa d,45,Gas Giant
+55 Cnc d,41,Gas Giant
+61 Vir d,28,Neptune-Like
+CoRoT-7 d,522,Neptune-Like
+DMPP-1 d,204,Super Earth
+EPIC 201754305 d,1092,Super Earth
+EPIC 206024342 d,1206,Neptune-Like
+EPIC 249893012 d,1048,Neptune-Like
+GJ 1061 d,12,Super Earth
+GJ 163 d,49,Neptune-Like
+GJ 180 d,39,Neptune-Like
+GJ 3138 d,93,Neptune-Like
+GJ 3293 d,66,Neptune-Like
+GJ 357 d,31,Neptune-Like
+GJ 433 d,30,Neptune-Like
+GJ 676 A d,52,Super Earth
+GJ 876 d,15,Neptune-Like
+GJ 9827 d,97,Neptune-Like
+HD 10180 d,127,Gas Giant
+HD 108236 d,211,Neptune-Like
+HD 11506 d,167,Gas Giant
+HD 125612 d,188,Gas Giant
+HD 136352 d,48,Neptune-Like
+HD 141399 d,121,Gas Giant
+HD 142 A d,85,Gas Giant
+HD 153557 d,59,Gas Giant
+HD 158259 d,88,Neptune-Like
+HD 160691 d,51,Neptune-Like
+HD 164922 d,72,Super Earth
+HD 181433 d,88,Gas Giant
+HD 184010 d,198,Gas Giant
+HD 191939 d,175,Neptune-Like
+HD 20781 d,117,Neptune-Like
+HD 20794 d,20,Super Earth
+HD 215152 d,70,Super Earth
+HD 219134 d,21,Super Earth
+HD 22946 d,205,Neptune-Like
+HD 23472 d,127,Terrestrial
+HD 27894 d,143,Gas Giant
+HD 28109 d,455,Neptune-Like
+HD 31527 d,125,Neptune-Like
+HD 3167 d,154,Super Earth
+HD 33142 d,396,Gas Giant
+HD 34445 d,150,Neptune-Like
+HD 37124 d,103,Gas Giant
+HD 39194 d,86,Super Earth
+HD 40307 d,42,Neptune-Like
+HD 69830 d,41,Neptune-Like
+HD 7924 d,55,Neptune-Like
+HD 93385 d,141,Neptune-Like
+HD 96700 d,83,Neptune-Like
+HIP 14810 d,165,Gas Giant
+HIP 41378 d,347,Neptune-Like
+HIP 57274 d,84,Gas Giant
+HR 858 d,104,Neptune-Like
+HR 8799 d,135,Gas Giant
+K2-133 d,245,Super Earth
+K2-136 d,193,Super Earth
+K2-138 d,661,Super Earth
+K2-148 d,406,Super Earth
+K2-155 d,237,Super Earth
+K2-165 d,439,Neptune-Like
+K2-183 d,1073,Neptune-Like
+K2-187 d,1079,Neptune-Like
+K2-19 d,945,Super Earth
+K2-198 d,361,Neptune-Like
+K2-219 d,1061,Neptune-Like
+K2-233 d,220,Super Earth
+K2-239 d,101,Super Earth
+K2-266 d,253,Neptune-Like
+K2-268 d,1069,Super Earth
+K2-285 d,505,Neptune-Like
+K2-3 d,144,Super Earth
+K2-32 d,514,Neptune-Like
+K2-352 d,574,Neptune-Like
+K2-368 d,674,Super Earth
+K2-37 d,587,Neptune-Like
+K2-381 d,475,Super Earth
+K2-384 d,270,Super Earth
+K2-58 d,593,Super Earth
+K2-72 d,217,Super Earth
+K2-80 d,655,Neptune-Like
+KIC 10001893 d,5456,Unknown
+KOI-1831 d,1636,Super Earth
+KOI-1833 d,947,Super Earth
+KOI-351 d,2767,Neptune-Like
+KOI-94 d,1556,Gas Giant
+Kepler-10 d,605,Neptune-Like
+Kepler-100 d,994,Super Earth
+Kepler-102 d,352,Super Earth
+Kepler-104 d,1307,Neptune-Like
+Kepler-106 d,1449,Terrestrial
+Kepler-107 d,1716,Super Earth
+Kepler-1073 d,2641,Super Earth
+Kepler-11 d,2108,Neptune-Like
+Kepler-1130 d,813,Terrestrial
+Kepler-114 d,846,Neptune-Like
+Kepler-122 d,3351,Neptune-Like
+Kepler-124 d,1370,Super Earth
+Kepler-1254 d,2031,Super Earth
+Kepler-126 d,774,Gas Giant
+Kepler-127 d,1151,Neptune-Like
+Kepler-129 d,1333,Gas Giant
+Kepler-130 d,1033,Super Earth
+Kepler-1311 d,2826,Gas Giant
+Kepler-132 d,1140,Super Earth
+Kepler-1321 d,2509,Neptune-Like
+Kepler-138 d,218,Super Earth
+Kepler-1388 d,1480,Neptune-Like
+Kepler-142 d,1790,Neptune-Like
+Kepler-1468 d,6194,Neptune-Like
+Kepler-148 d,2580,Gas Giant
+Kepler-149 d,1862,Neptune-Like
+Kepler-150 d,2906,Neptune-Like
+Kepler-1530 d,1598,Neptune-Like
+Kepler-154 d,2985,Neptune-Like
+Kepler-1542 d,1302,Terrestrial
+Kepler-157 d,2523,Super Earth
+Kepler-160 d,3056,Gas Giant
+Kepler-164 d,2905,Neptune-Like
+Kepler-166 d,1968,Super Earth
+Kepler-1669 d,1772,Super Earth
+Kepler-167 d,1115,Super Earth
+Kepler-169 d,1326,Super Earth
+Kepler-171 d,2817,Super Earth
+Kepler-172 d,2702,Neptune-Like
+Kepler-174 d,1255,Neptune-Like
+Kepler-176 d,1720,Super Earth
+Kepler-178 d,2335,Neptune-Like
+Kepler-18 d,1412,Neptune-Like
+Kepler-184 d,1991,Neptune-Like
+Kepler-186 d,579,Super Earth
+Kepler-19 d,713,Neptune-Like
+Kepler-191 d,1939,Neptune-Like
+Kepler-192 d,2125,Super Earth
+Kepler-194 d,3581,Neptune-Like
+Kepler-196 d,1472,Neptune-Like
+Kepler-197 d,1078,Super Earth
+Kepler-198 d,1616,Super Earth
+Kepler-1987 d,1943,Neptune-Like
+Kepler-20 d,922,Super Earth
+Kepler-203 d,2294,Super Earth
+Kepler-206 d,1939,Super Earth
+Kepler-207 d,2855,Neptune-Like
+Kepler-208 d,2529,Super Earth
+Kepler-215 d,1585,Super Earth
+Kepler-217 d,3603,Super Earth
+Kepler-218 d,2141,Neptune-Like
+Kepler-219 d,2567,Super Earth
+Kepler-220 d,558,Terrestrial
+Kepler-221 d,1256,Neptune-Like
+Kepler-222 d,2475,Neptune-Like
+Kepler-223 d,6065,Neptune-Like
+Kepler-224 d,2551,Neptune-Like
+Kepler-226 d,3197,Super Earth
+Kepler-228 d,5364,Neptune-Like
+Kepler-229 d,2695,Neptune-Like
+Kepler-23 d,2726,Super Earth
+Kepler-235 d,1396,Super Earth
+Kepler-238 d,5867,Neptune-Like
+Kepler-24 d,3773,Super Earth
+Kepler-244 d,3380,Super Earth
+Kepler-245 d,2810,Neptune-Like
+Kepler-247 d,2165,Neptune-Like
+Kepler-249 d,621,Super Earth
+Kepler-25 d,793,Gas Giant
+Kepler-250 d,2481,Neptune-Like
+Kepler-251 d,3016,Neptune-Like
+Kepler-253 d,2735,Neptune-Like
+Kepler-254 d,4532,Neptune-Like
+Kepler-255 d,3433,Super Earth
+Kepler-256 d,3348,Neptune-Like
+Kepler-257 d,2545,Neptune-Like
+Kepler-26 d,1094,Super Earth
+Kepler-265 d,4176,Neptune-Like
+Kepler-267 d,864,Neptune-Like
+Kepler-27 d,3406,Neptune-Like
+Kepler-271 d,1319,Terrestrial
+Kepler-272 d,2901,Neptune-Like
+Kepler-275 d,6635,Neptune-Like
+Kepler-276 d,3734,Super Earth
+Kepler-279 d,3383,Neptune-Like
+Kepler-281 d,5693,Neptune-Like
+Kepler-282 d,4363,Super Earth
+Kepler-286 d,4001,Super Earth
+Kepler-288 d,3895,Neptune-Like
+Kepler-289 d,2298,Neptune-Like
+Kepler-290 d,2266,Terrestrial
+Kepler-292 d,3446,Neptune-Like
+Kepler-295 d,5542,Super Earth
+Kepler-296 d,545,Neptune-Like
+Kepler-297 d,2257,Gas Giant
+Kepler-298 d,1690,Neptune-Like
+Kepler-299 d,3432,Super Earth
+Kepler-30 d,2982,Neptune-Like
+Kepler-301 d,2346,Super Earth
+Kepler-304 d,1418,Neptune-Like
+Kepler-305 d,2833,Neptune-Like
+Kepler-306 d,2530,Neptune-Like
+Kepler-31 d,5429,Gas Giant
+Kepler-310 d,1964,Super Earth
+Kepler-311 d,2540,Super Earth
+Kepler-319 d,1642,Neptune-Like
+Kepler-32 d,1056,Neptune-Like
+Kepler-325 d,2685,Neptune-Like
+Kepler-326 d,1591,Super Earth
+Kepler-327 d,789,Super Earth
+Kepler-33 d,3944,Neptune-Like
+Kepler-331 d,1892,Super Earth
+Kepler-332 d,1123,Super Earth
+Kepler-334 d,1391,Super Earth
+Kepler-336 d,2508,Neptune-Like
+Kepler-338 d,1803,Neptune-Like
+Kepler-339 d,2011,Super Earth
+Kepler-341 d,3415,Super Earth
+Kepler-342 d,2549,Neptune-Like
+Kepler-347 d,4236,Neptune-Like
+Kepler-350 d,3121,Super Earth
+Kepler-351 d,3535,Neptune-Like
+Kepler-352 d,824,Terrestrial
+Kepler-354 d,1807,Super Earth
+Kepler-357 d,2246,Neptune-Like
+Kepler-359 d,4707,Neptune-Like
+Kepler-363 d,2487,Super Earth
+Kepler-37 d,208,Neptune-Like
+Kepler-372 d,4872,Super Earth
+Kepler-374 d,4128,Super Earth
+Kepler-381 d,872,Super Earth
+Kepler-385 d,4672,Neptune-Like
+Kepler-394 d,3453,Super Earth
+Kepler-398 d,578,Terrestrial
+Kepler-399 d,2415,Super Earth
+Kepler-401 d,3149,Neptune-Like
+Kepler-402 d,2040,Super Earth
+Kepler-403 d,2741,Super Earth
+Kepler-411 d,501,Neptune-Like
+Kepler-416 d,2353,Super Earth
+Kepler-42 d,131,Terrestrial
+Kepler-431 d,1587,Super Earth
+Kepler-444 d,119,Terrestrial
+Kepler-445 d,415,Super Earth
+Kepler-446 d,314,Super Earth
+Kepler-450 d,1487,Super Earth
+Kepler-451 d,1293,Gas Giant
+Kepler-454 d,753,Gas Giant
+Kepler-457 d,3497,Neptune-Like
+Kepler-46 d,2534,Super Earth
+Kepler-47 d,3343,Neptune-Like
+Kepler-48 d,1000,Super Earth
+Kepler-487 d,2845,Neptune-Like
+Kepler-49 d,1015,Super Earth
+Kepler-51 d,2556,Neptune-Like
+Kepler-52 d,1049,Super Earth
+Kepler-529 d,2606,Neptune-Like
+Kepler-53 d,4455,Neptune-Like
+Kepler-54 d,886,Super Earth
+Kepler-549 d,2072,Neptune-Like
+Kepler-55 d,1888,Super Earth
+Kepler-56 d,2978,Gas Giant
+Kepler-58 d,3161,Neptune-Like
+Kepler-60 d,3343,Neptune-Like
+Kepler-603 d,5021,Super Earth
+Kepler-616 d,3085,Neptune-Like
+Kepler-618 d,2938,Neptune-Like
+Kepler-62 d,981,Neptune-Like
+Kepler-65 d,991,Super Earth
+Kepler-68 d,470,Gas Giant
+Kepler-758 d,4900,Neptune-Like
+Kepler-763 d,3139,Super Earth
+Kepler-770 d,3035,Super Earth
+Kepler-79 d,3329,Neptune-Like
+Kepler-80 d,1205,Super Earth
+Kepler-81 d,1135,Super Earth
+Kepler-82 d,2949,Super Earth
+Kepler-83 d,1306,Super Earth
+Kepler-84 d,3339,Super Earth
+Kepler-85 d,2495,Super Earth
+Kepler-88 d,1229,Gas Giant
+Kepler-9 d,2049,Super Earth
+Kepler-92 d,1559,Super Earth
+L 98-59 d,35,Super Earth
+LP 791-18 d,86,Super Earth
+NN Ser d,1682,Gas Giant
+PSR B1257+12 d,1957,Super Earth
+TOI-1136 d,276,Neptune-Like
+TOI-1246 d,553,Neptune-Like
+TOI-125 d,362,Neptune-Like
+TOI-1260 d,240,Neptune-Like
+TOI-1749 d,325,Neptune-Like
+TOI-178 d,204,Neptune-Like
+TOI-2076 d,137,Neptune-Like
+TOI-270 d,73,Neptune-Like
+TOI-4010 d,579,Gas Giant
+TOI-431 d,106,Neptune-Like
+TOI-451 d,404,Neptune-Like
+TOI-500 d,155,Neptune-Like
+TOI-561 d,280,Super Earth
+TOI-700 d,102,Super Earth
+TOI-712 d,191,Neptune-Like
+TRAPPIST-1 d,41,Terrestrial
+V1298 Tau d,353,Gas Giant
+WASP-47 d,864,Neptune-Like
+Wolf 1061 d,14,Neptune-Like
+YZ Cet d,12,Super Earth
+pi Men d,60,Neptune-Like
+rho CrB d,57,Neptune-Like
+ups And d,44,Gas Giant
