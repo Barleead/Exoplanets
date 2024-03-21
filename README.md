@@ -1,4 +1,4 @@
-![Alt text](adkins_code.png)
+![Alt text](images/adkins_code.png)
 
 **Welcome to my project!**
 
@@ -12,7 +12,7 @@ In this project, we will look at how and where Exoplanets have been found. Also,
 
 Below, I have included a data dictionary which explains the abbreviations used as the column titles.
 
-![Alt text](image.png)
+![Alt text](images/image.png)
 
 Fun piece of trivia, the letter classification (pl_letter) indicates the order of discovery for planets and for stars it references the size of the star.
 
