@@ -1,4 +1,4 @@
-![Alt text](images/adkins_code.png)
+![Alt text](Images/adkins_code.png)
 
 **Welcome to my project!**
 
@@ -10,9 +10,9 @@ While there are many realms to explore concerning planets and galaxies, today's 
 
 In this project, we will look at how and where Exoplanets have been found. Also, the equipment used and how far each is from Earth. Included in the analysis is comparison of line segments basing values on the radius of Earth, Jupiter and the Sun. 
 
-Below, I have included a data dictionary which explains the abbreviations used as the column titles.
+Below, I have included a data dictionary which explains the abbreviations used as the column titles.  Also, for convenience the original .docx file is located in the readme. 
 
-![Alt text](images/image.png)
+![Alt text](Images/image.png)
 
 Fun piece of trivia, the letter classification (pl_letter) indicates the order of discovery for planets and for stars it references the size of the star.
 
@@ -93,3 +93,6 @@ To exit the virtual environment type “deactivate”.
 
   
 
+
+
+[def]: Exoplanet_Data_Dictionary.docx
