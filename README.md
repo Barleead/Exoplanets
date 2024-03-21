@@ -10,9 +10,38 @@ While there are many realms to explore concerning planets and galaxies, today's 
 
 In this project, we will look at how and where Exoplanets have been found. Also, the equipment used and how far each is from Earth. Included in the analysis is comparison of line segments basing values on the radius of Earth, Jupiter and the Sun. 
 
-Below, I have included a data dictionary which explains the abbreviations used as the column titles.  Also, for convenience the original .docx file is located in the readme. 
+Below, I have included a data dictionary which explains the abbreviations used as the column titles.  
 
-![Alt text](Images/image.png)
+|**Term number for reference**|<p></p><p>**Column Name**</p>|<p></p><p>**Meaning**</p>|
+| :-: | :-: | :-: |
+|1|pl\_name|Planet name that is most used|
+|2|hostname|Stellar name (1<sup>st</sup> part of pl\_name)|
+|3|pl\_letter|Letter given to the planetary component of the planetary system (2<sup>nd</sup> part of the pl\_name)|
+|4|hd\_name|Name of the star per the Henry Draper Catalog|
+|5|gaia\_id|Name of the star per the Gaia Catalog|
+|6|sy\_snum|Number of stars in the planetary system|
+|7|sy\_pnum|Number of confirmed planets in the planetary system|
+|8|sy\_mnum|Number of moons in the planetary system|
+|9|discoverymethod|Method used when the planet was first identified|
+|10|disc\_year|Planet was discovered in this year|
+|11|disc\_locale|Ground or space location of the observation of the planet discovery|
+|12|disc\_facility|Facility of planet discovery observations|
+|13|disc\_telescope|Name of telescope of planet observations|
+|14|pl\_orbper|Time in days that the planet takes to make a complete orbit around the host star or system|
+|15|pl\_orbsmax|Longest radius of an elliptical orbit or concerning exoplanets that were detected via microlensing or direct imaging, the projected separation in the plane of the sky|
+|16|pl\_rade|Line segment from the center of the planet to the surface.  Units are based on the radius of Earth.|
+|17|pl\_radj|Line segment from the center of the planet to the surface.  Units are based on the radius of Jupiter.|
+|18|pl\_masse|Amount of matter contained in the planet, these are measured in units of masses of the Earth.|
+|19|pl\_dens|Mass per unit of volume of the planet|
+|20|pl\_orbeccen|Amount that the orbit of the planet diviates from a perfect circle|
+|21|pl\_eqt|Briefly, the equilibrium temperature of the planet as modeled by a black body heated by a host star|
+|22|pl\_trandur|Time that planet takes to cross the stellar limb (start to finish)|
+|23|pl\_ratdor|Distance between planet & star at the mid-transit divided by the stellar radius|
+|24|pl\_ratror|Radius divided by the stellar radius|
+|25|pl\_occdep|Depth of occultation of secondary eclipse|
+|26|st\_rad|Length of a line segment from the center of the star to its surface, measured in units of radius of the Sun|
+|27|st\_age|Age of the host star|
+|28|st\_dens|Mass per unit of volume of the star|
 
 Fun piece of trivia, the letter classification (pl_letter) indicates the order of discovery for planets and for stars it references the size of the star.
 
@@ -92,7 +121,3 @@ To exit the virtual environment type “deactivate”.
    Answer the question, "Does one type of equipment over another, make a difference in how easily a planet could be discovered?"
 
   
-
-
-
-[def]: Exoplanet_Data_Dictionary.docx
