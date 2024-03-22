@@ -2,7 +2,7 @@
 
 **Welcome to my project!**
 
-You may be asking, “Why Exoplanets?”. I lived in the country when I was younger and street lighting was not common. Therefore, other than clouds, nothing interfered with viewing the part of the Milky Way which was visable from my home. To my young mind this was a magical sight and was the beginning of my love of the stars. 
+You may be asking, “Why Exoplanets?”. I lived in the country when I was younger and street lighting was not common. Therefore, other than clouds, nothing interfered with viewing the part of the Milky Way which was visible from my home. To my young mind this was a magical sight and was the beginning of my love of the stars. 
 
 While there are many realms to explore concerning planets and galaxies, today's focus will be on exoplanets.  Extrasolar Planets are those that orbit a star, that are not in our solar system and therefore outside our stars influence.  Next is a NASA video presentation on Exoplanets. The video will open in a new  window. I have also embedded it within the executable program for convenience.
 
@@ -45,7 +45,7 @@ Below, I have included a data dictionary which explains the abbreviations used a
 
 Fun piece of trivia, the letter classification (pl_letter) indicates the order of discovery for planets and for stars it references the size of the star.
 
-The types of planets used in my Tableau visualiations are:
+The types of planets used in my Tableau visualizations are:
 
 1. Gas Giants - Giant planets made up of mostly hydrogen & helium. These have no hard surfaces.
 2. Terrestrial - These planets are made up of rock, silicate, water, and/or carbon.
@@ -97,11 +97,11 @@ To exit the virtual environment type “deactivate”.
 
 **Interpretation of the data**
 
-  There is a great deal of informtion on the internet concerning Exoplanets. The small amount of data I have worked with shows that there are differences in the information presented depending on points of reference: the radius of the Earth and Sun for example..  The source of the data is filtered through other known data and can be approximations.  Please refer to project visualizations at [my public Tableau.](https://public.tableau.com/app/profile/barbara.adkins/vizzes)  After opening the dashboard, click on "View on Tableau Public"  and each visualization has its own tab. 
+There is a great deal of information on the internet concerning Exoplanets. The small amount of data I have worked with shows that there are differences in the information presented depending on points of reference: the radius of the Earth and Sun for example. The source of the data is filtered through other known data and can be approximations.  Please refer to project visualizations at [my public Tableau.](https://public.tableau.com/app/profile/barbara.adkins/vizzes)  After opening the dashboard, click on "View on Tableau Public"  and each visualization has its own tab. 
 
-   **Resources**
+**Resources**
 
-   [kaggle.com](kaggle.com)
+[kaggle.com](kaggle.com)
 
    [https://eyes.nasa.gov/apps/exo/#/system/K2-17	](https://eyes.nasa.gov/apps/exo/#/system/K2-17)
 
