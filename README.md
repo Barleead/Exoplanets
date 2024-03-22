@@ -4,11 +4,13 @@
 
 You may be asking, “Why Exoplanets?”. I lived in the country when I was younger and street lighting was not common. Therefore, other than clouds, nothing interfered with viewing the part of the Milky Way which was visible from my home. To my young mind this was a magical sight and was the beginning of my love of the stars. 
 
-While there are many realms to explore concerning planets and galaxies, today's focus will be on exoplanets.  Extrasolar Planets are those that orbit a star, that are not in our solar system and therefore outside our stars influence.  Next is a NASA video presentation on Exoplanets. The video will open in a new  window. I have also embedded it within the executable program for convenience.
+While there are many avenues to explore concerning planets and galaxies, today's focus will be on exoplanets.  Extrasolar Planets are those that orbit a star, that are not in our solar system and therefore, outside our stars influence.  Next is a NASA video presentation on Exoplanets. The video will open in a new  window. I have also embedded it within the executable program for convenience.
 
 [NASA video on Exoplanets](https://youtu.be/4IXYp9Fse44 "NASA Video on Exoplanets")
 
-In this project, we will look at how and where Exoplanets have been found. Also, the equipment used and how far each is from Earth. Included in the analysis is comparison of line segments basing values on the radius of Earth, Jupiter and the Sun. 
+In this project, we will look at the age of various Exoplanets and how far "d" planets are from earth. We will be able to answer questions such as "What is the closest exoplanet to Earth?" or "Which is furthest away?"  The visualizations will show what type of planet each is and how long it takes a particular planet to orbit around its host star or system.
+
+Fun piece of trivia, the letter classification (pl_letter) indicates the order of discovery for planets and for stars it references the size of the star.
 
 Below, I have included a data dictionary which explains the abbreviations used as the column titles.  
 
@@ -43,7 +45,6 @@ Below, I have included a data dictionary which explains the abbreviations used a
 |27|st\_age|Age of the host star|
 |28|st\_dens|Mass per unit of volume of the star|
 
-Fun piece of trivia, the letter classification (pl_letter) indicates the order of discovery for planets and for stars it references the size of the star.
 
 The types of planets used in my Tableau visualizations are:
 
@@ -62,14 +63,12 @@ The instructions for installing Git can be found [here](https://github.com/git-g
 
 Go to my repository: [Capstone Repository](https://github.com/Barleead/Astronomy-capstone) and clone the repository.
 
-My project has nothing in the requirements folder so when running my project you may skip that step.
-
 Open Git and enter the following commands to create a virtual environment:
 
 **Windows**
 
 1. python -m venv venv
-2. source venv\bin\activate or source venv\scripts\activate
+2. source venv\scripts\activate
 3. pip install -r requirements.  
 
 
@@ -83,7 +82,7 @@ After the virtual environment is created, enter “git clone” followed by the 
 
 Run the file “Capstone Exoplanets”
 
-To exit the virtual environment type “deactivate”.
+To exit the virtual environment type “deactivate” in the git/terminal window.
 
 **Features**
 
@@ -97,7 +96,7 @@ To exit the virtual environment type “deactivate”.
 
 **Interpretation of the data**
 
-There is a great deal of information on the internet concerning Exoplanets. The small amount of data I have worked with shows that there are differences in the information presented depending on points of reference: the radius of the Earth and Sun for example. The source of the data is filtered through other known data and can be approximations.  Please refer to project visualizations at [my public Tableau.](https://public.tableau.com/app/profile/barbara.adkins/vizzes)  After opening the dashboard, click on "View on Tableau Public"  and each visualization has its own tab. 
+There is a great deal of information on the internet concerning Exoplanets. The small amount of data I have worked with shows that the differences in the information presented is dependent upon points of reference: the radius of the Earth and Sun for example. The source of the data is filtered through other known data and can be approximations.  Please refer to project visualizations at [my public Tableau.](https://public.tableau.com/app/profile/barbara.adkins/vizzes)  After opening the dashboard, click on "View on Tableau Public"  and each visualization is displayed on its own tab. After running the project and viewing my visualizations, you will be able to answer the questions which were posed above. 
 
 **Resources**
 
@@ -114,6 +113,8 @@ There is a great deal of information on the internet concerning Exoplanets. The 
 
    **Future Plans**
 
+   Possibly expand the project to include other planet classifications (b, c, and e for example).
+   
    Explore the mass of the planets relative to distance.
 
    Exploration of the distance, in light years, between any two given planets.
