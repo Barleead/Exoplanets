@@ -80,6 +80,8 @@ Open Git and enter the following commands to create a virtual environment:
 
 After the virtual environment is created, enter “git clone” followed by the URL you copied when cloning the repository.
 
+Navigate to where you cloned the repository. 
+
 Run the file “Capstone Exoplanets”
 
 To exit the virtual environment type “deactivate” in the git/terminal window.
@@ -96,7 +98,9 @@ To exit the virtual environment type “deactivate” in the git/terminal window
 
 **Interpretation of the data**
 
-There is a great deal of information on the internet concerning Exoplanets. The small amount of data I have worked with shows that the differences in the information presented is dependent upon points of reference: the radius of the Earth and Sun for example. The source of the data is filtered through other known data and can be approximations.  Please refer to project visualizations at [my public Tableau.](https://public.tableau.com/app/profile/barbara.adkins/vizzes)  After opening the dashboard, click on "View on Tableau Public"  and each visualization is displayed on its own tab. After running the project and viewing my visualizations, you will be able to answer the questions which were posed above. 
+There is a great deal of information on the internet concerning Exoplanets. The small amount of data I have worked with shows that the differences in the information presented is dependent upon points of reference: the radius of the Earth and Sun being used in other calculations for example. The source of the data is filtered through other known data and can be approximations.  Please refer to project visualizations at [my public Tableau.](https://public.tableau.com/app/profile/barbara.adkins/vizzes)  Each visualization is displayed on its own tab. After running the project and viewing my visualizations, you will be able to answer the questions which were posed above. 
+
+I have included Matplotlib and Seaborn visualizations as part of the programming in Jupyter Notebook.
 
 **Resources**
 
