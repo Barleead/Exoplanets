@@ -1,6 +1,4 @@
 matplotlib
 pandas
-<<<<<<< HEAD
 seaborn
-=======
->>>>>>> 4da0beafcb8782ca301e6bc66dfc1fcf29db8f26
+
