@@ -68,7 +68,7 @@ Open Git and enter the following commands to create a virtual environment:
 **Windows**
 
 1. python -m venv venv
-2. source venv\scripts\activate
+2. source venv\Scripts\activate
 3. pip install -r requirements.  
 
 
